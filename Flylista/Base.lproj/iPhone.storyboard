@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="2.0" toolsVersion="2844" systemVersion="12C60" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="3">
+    <dependencies>
+        <development version="4500" identifier="xcode"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="1930"/>
+    </dependencies>
+    <scenes>
+        <!--Navigation Controller-->
+        <scene sceneID="11">
+            <objects>
+                <navigationController id="3" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="4" customClass="FlylistaNavigationBar">
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="tintColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="12" kind="relationship" relationship="rootViewController" id="19"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="10" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1" y="64"/>
+        </scene>
+        <!--Flights View Controller - Flights-->
+        <scene sceneID="18">
+            <objects>
+                <tableViewController storyboardIdentifier="" title="Flights" id="12" customClass="FlightsViewController" sceneMemberID="viewController">
+                    <tableView key="view" opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="none" rowHeight="55" sectionHeaderHeight="22" sectionFooterHeight="22" id="13">
+                        <rect key="frame" x="0.0" y="94" width="320" height="386"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <color key="separatorColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <prototypes>
+                            <tableViewCell contentMode="scaleToFill" selectionStyle="gray" accessoryType="disclosureIndicator" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="FlightCell" id="lJ0-d7-vTF" customClass="FlightTableViewCell">
+                                <rect key="frame" x="0.0" y="22" width="320" height="55"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                                    <rect key="frame" x="0.0" y="0.0" width="300" height="54"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Time" lineBreakMode="tailTruncation" minimumFontSize="10" id="kka-NL-rjj" userLabel="Time">
+                                            <rect key="frame" x="12" y="4" width="56" height="22"/>
+                                            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="22"/>
+                                            <color key="textColor" red="0.20000000298023224" green="0.20000000298023224" blue="0.20000000298023224" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                            <color key="shadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                            <size key="shadowOffset" width="0.0" height="1"/>
+                                        </label>
+                                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Airport" lineBreakMode="tailTruncation" minimumFontSize="10" id="bmB-uh-DGS" userLabel="Airport">
+                                            <rect key="frame" x="12" y="28" width="119" height="26"/>
+                                            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="20"/>
+                                            <color key="textColor" red="0.0" green="0.25098040699958801" blue="0.50196081399917603" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                            <color key="shadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                            <size key="shadowOffset" width="0.0" height="1"/>
+                                        </label>
+                                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Airline" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" id="B4b-h7-irT" userLabel="Airline">
+                                            <rect key="frame" x="149" y="28" width="149" height="26"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxY="YES"/>
+                                            <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="20"/>
+                                            <color key="textColor" red="0.70196080207824707" green="0.70196080207824707" blue="0.70196080207824707" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                            <color key="shadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                            <size key="shadowOffset" width="0.0" height="1"/>
+                                        </label>
+                                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Flight" lineBreakMode="tailTruncation" minimumFontSize="10" id="xh2-b4-xc6" userLabel="Flight">
+                                            <rect key="frame" x="191" y="0.0" width="84" height="29"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxY="YES"/>
+                                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="18"/>
+                                            <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                            <nil key="highlightedColor"/>
+                                            <color key="shadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                            <size key="shadowOffset" width="0.0" height="1"/>
+                                        </label>
+                                        <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" image="info.png" id="E3s-qQ-GqP">
+                                            <rect key="frame" x="276.5" y="3" width="20" height="20"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                                        </imageView>
+                                        <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" image="alarm.png" id="sev-dt-2Lg">
+                                            <rect key="frame" x="69.5" y="1" width="20" height="20"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                                        </imageView>
+                                    </subviews>
+                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                </view>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <connections>
+                                    <outlet property="airline" destination="B4b-h7-irT" id="Ser-Rp-3ih"/>
+                                    <outlet property="airport" destination="bmB-uh-DGS" id="eNS-43-RHB"/>
+                                    <outlet property="alarmImageView" destination="sev-dt-2Lg" id="Uso-4f-nv9"/>
+                                    <outlet property="flightNo" destination="xh2-b4-xc6" id="m3D-7k-FWw"/>
+                                    <outlet property="scheduleTime" destination="kka-NL-rjj" id="GMW-VU-obQ"/>
+                                    <outlet property="statusUpdateImageView" destination="E3s-qQ-GqP" id="LIE-pO-rVq"/>
+                                    <segue destination="5vd-ci-LaS" kind="push" identifier="showFlight" id="aLd-1h-mti"/>
+                                </connections>
+                            </tableViewCell>
+                        </prototypes>
+                        <sections/>
+                        <connections>
+                            <outlet property="dataSource" destination="12" id="cLm-5p-Rin"/>
+                            <outlet property="delegate" destination="12" id="MBr-sp-sbm"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" prompt="Arrival to Oslo" id="36">
+                        <nil key="title"/>
+                        <barButtonItem key="leftBarButtonItem" title="Airport" id="bYr-C5-LGi">
+                            <connections>
+                                <segue destination="A2q-Jj-1u5" kind="modal" identifier="showAirports" id="F1B-kJ-uzU"/>
+                            </connections>
+                        </barButtonItem>
+                        <segmentedControl key="titleView" opaque="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="bar" selectedSegmentIndex="0" id="MEA-YD-chc">
+                            <rect key="frame" x="81" y="37" width="158" height="30"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <segments>
+                                <segment title="" image="Arrive.png"/>
+                                <segment title="" image="Departure.png"/>
+                            </segments>
+                            <connections>
+                                <action selector="changedFlightsDirection" destination="12" eventType="valueChanged" id="4dT-hL-eOI"/>
+                            </connections>
+                        </segmentedControl>
+                    </navigationItem>
+                    <connections>
+                        <outlet property="airportBarButton" destination="bYr-C5-LGi" id="CxE-EK-Sh1"/>
+                        <outlet property="flightsDirectionSegmentedControl" destination="MEA-YD-chc" id="ubq-c2-vaY"/>
+                    </connections>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="17" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="459" y="64"/>
+        </scene>
+        <!--Flight View Controller - Flight Information-->
+        <scene sceneID="RBk-nK-OKo">
+            <objects>
+                <viewController id="5vd-ci-LaS" customClass="FlightViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="WtS-6H-V93">
+                        <rect key="frame" x="0.0" y="94" width="320" height="386"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="From" lineBreakMode="tailTruncation" minimumFontSize="10" id="l2V-PM-OCN">
+                                <rect key="frame" x="20" y="54" width="45" height="29"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Noteworthy-Light" family="Noteworthy" pointSize="19"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                                <color key="shadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <size key="shadowOffset" width="0.0" height="1"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Bergen" lineBreakMode="tailTruncation" minimumFontSize="10" id="R0B-D3-zG0" userLabel="Airport of Departure">
+                                <rect key="frame" x="136" y="52" width="164" height="33"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="24"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="CoA" textAlignment="right" lineBreakMode="tailTruncation" minimumFontSize="10" id="ucH-Pi-CAk">
+                                <rect key="frame" x="68" y="55" width="60" height="27"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="24"/>
+                                <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="To" lineBreakMode="tailTruncation" minimumFontSize="10" id="s6A-ld-7EO">
+                                <rect key="frame" x="20" y="95" width="45" height="29"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Noteworthy-Light" family="Noteworthy" pointSize="19"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                                <color key="shadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <size key="shadowOffset" width="0.0" height="1"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Schedule Time" lineBreakMode="tailTruncation" numberOfLines="2" minimumFontSize="10" id="7w9-r6-Nfp">
+                                <rect key="frame" x="20" y="134" width="108" height="39"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Noteworthy-Light" family="Noteworthy" pointSize="19"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                                <color key="shadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <size key="shadowOffset" width="0.0" height="1"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Oslo" lineBreakMode="tailTruncation" minimumFontSize="10" id="X6u-SW-WEL" userLabel="Airport of Arrival">
+                                <rect key="frame" x="136" y="93" width="164" height="33"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="24"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="CoD" textAlignment="right" lineBreakMode="tailTruncation" minimumFontSize="10" id="6lx-pj-2UI">
+                                <rect key="frame" x="67" y="96" width="61" height="27"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="24"/>
+                                <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Airline:" lineBreakMode="tailTruncation" minimumFontSize="10" id="NPp-h9-bwJ">
+                                <rect key="frame" x="20" y="14" width="99" height="29"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Noteworthy-Light" family="Noteworthy" pointSize="19"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                                <color key="shadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <size key="shadowOffset" width="0.0" height="1"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Label" lineBreakMode="tailTruncation" minimumFontSize="10" id="BFe-Hd-BPV" userLabel="Airline">
+                                <rect key="frame" x="136" y="14" width="164" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="24"/>
+                                <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                                <color key="shadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <size key="shadowOffset" width="0.0" height="1"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Registration" lineBreakMode="tailTruncation" minimumFontSize="10" id="4J9-0F-znn" userLabel="STATUS">
+                                <rect key="frame" x="20" y="256" width="278" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="28"/>
+                                <color key="textColor" red="0.0" green="0.25098040699958801" blue="0.50196081399917603" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Check-In" lineBreakMode="tailTruncation" minimumFontSize="10" id="Bjf-NO-jcB" userLabel="Check In">
+                                <rect key="frame" x="20" y="209" width="280" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="28"/>
+                                <color key="textColor" red="0.0" green="0.25098040699958801" blue="0.50196081399917603" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                                <color key="shadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <size key="shadowOffset" width="0.0" height="1"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="20:50" lineBreakMode="tailTruncation" minimumFontSize="10" id="2fL-p0-Ej9" userLabel="Schedule Time">
+                                <rect key="frame" x="136" y="140" width="76" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="27"/>
+                                <color key="textColor" red="0.20000000298023224" green="0.20000000298023224" blue="0.20000000298023224" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="21:50" lineBreakMode="tailTruncation" minimumFontSize="10" id="Uuj-ny-nMf" userLabel="Updated Time">
+                                <rect key="frame" x="220" y="140" width="80" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="27"/>
+                                <color key="textColor" red="0.20000000298023224" green="0.20000000298023224" blue="0.20000000298023224" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" image="timeCrossOut.png" id="ov7-Ot-hzr">
+                                <rect key="frame" x="128" y="146" width="84" height="20"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Flights data from Avinor  www.avinor.no" textAlignment="center" lineBreakMode="tailTruncation" minimumFontSize="10" id="FoT-FL-HzB">
+                                <rect key="frame" x="18" y="318" width="284" height="24"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                                <color key="shadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <size key="shadowOffset" width="0.0" height="1"/>
+                            </label>
+                            <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="T5z-wg-7dy" customClass="FlylistaToolbar">
+                                <rect key="frame" x="0.0" y="342" width="320" height="44"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                <items>
+                                    <barButtonItem image="alarm.png" style="plain" id="bJ7-qU-VdL">
+                                        <connections>
+                                            <action selector="setAlarm:" destination="5vd-ci-LaS" id="aB3-57-dJJ"/>
+                                            <segue destination="eZg-AI-Lm9" kind="modal" identifier="showFlightAlarm" customClass="CIDoorwaySegue" id="VOc-Nj-BNY"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem style="plain" systemItem="flexibleSpace" id="Nvb-pc-2Gs"/>
+                                    <barButtonItem style="plain" systemItem="action" id="Zny-xZ-K1h">
+                                        <connections>
+                                            <action selector="shareFlightInfo" destination="5vd-ci-LaS" id="DvB-qy-sqR"/>
+                                        </connections>
+                                    </barButtonItem>
+                                </items>
+                                <color key="tintColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                            </toolbar>
+                            <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" image="alarm.png" id="x7y-Ws-hd4">
+                                <rect key="frame" x="108" y="181" width="20" height="20"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label hidden="YES" opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Label" lineBreakMode="tailTruncation" minimumFontSize="10" id="kIT-tB-Ouv">
+                                <rect key="frame" x="136" y="181" width="61" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="BradleyHandITCTT-Bold" family="Bradley Hand" pointSize="27"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                                <color key="shadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Flight Information" prompt="Last updated:" id="c7k-bK-Mv0">
+                        <barButtonItem key="backBarButtonItem" title="Flights" id="YCa-Qb-znW"/>
+                    </navigationItem>
+                    <connections>
+                        <outlet property="action" destination="Bjf-NO-jcB" id="Z4c-xF-if8"/>
+                        <outlet property="airline" destination="BFe-Hd-BPV" id="Ryj-BL-w4A"/>
+                        <outlet property="airportArrival" destination="R0B-D3-zG0" id="F3z-1o-uA7"/>
+                        <outlet property="airportArrivalIATA" destination="ucH-Pi-CAk" id="5Us-QG-Ibp"/>
+                        <outlet property="airportDeparture" destination="X6u-SW-WEL" id="7LF-7u-4ne"/>
+                        <outlet property="airportDepartureIATA" destination="6lx-pj-2UI" id="5Zn-Ru-duw"/>
+                        <outlet property="alarmBarButton" destination="bJ7-qU-VdL" id="eqJ-F2-6pM"/>
+                        <outlet property="alarmImageView" destination="x7y-Ws-hd4" id="C6M-jc-j6m"/>
+                        <outlet property="alarmTime" destination="kIT-tB-Ouv" id="eiL-XZ-oC4"/>
+                        <outlet property="scheduleTime" destination="2fL-p0-Ej9" id="V05-aA-hvl"/>
+                        <outlet property="scheduleTimeLabel" destination="7w9-r6-Nfp" id="VoT-vO-r9b"/>
+                        <outlet property="status" destination="4J9-0F-znn" id="eYd-Bl-tfo"/>
+                        <outlet property="timeCrossOut" destination="ov7-Ot-hzr" id="BRr-D7-wP5"/>
+                        <outlet property="updatedTime" destination="Uuj-ny-nMf" id="UTz-o4-Fqi"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="oFC-p3-JiN" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="931" y="72"/>
+        </scene>
+        <!--Alarm View Controller-->
+        <scene sceneID="c0X-ka-JM5">
+            <objects>
+                <viewController id="eZg-AI-Lm9" customClass="AlarmViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="2dS-1l-Xeq">
+                        <rect key="frame" x="0.0" y="20" width="320" height="460"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <navigationBar contentMode="scaleToFill" barStyle="blackOpaque" id="7DS-Up-Z0R" customClass="FlylistaNavigationBar">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <items>
+                                    <navigationItem title="Alarm before flight" id="N3q-7t-8bx">
+                                        <barButtonItem key="rightBarButtonItem" systemItem="done" id="HVg-pb-wZo">
+                                            <connections>
+                                                <action selector="cancel:" destination="eZg-AI-Lm9" id="Z5T-IA-wPQ"/>
+                                            </connections>
+                                        </barButtonItem>
+                                    </navigationItem>
+                                </items>
+                            </navigationBar>
+                            <datePicker contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" datePickerMode="countDownTimer" minuteInterval="5" id="oZ3-Zo-ofE">
+                                <rect key="frame" x="0.0" y="44" width="320" height="216"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <date key="date" timeIntervalSinceReferenceDate="345915357.374753">
+                                    <!--2011-12-18 15:35:57 +0000-->
+                                </date>
+                                <locale key="locale" localeIdentifier="nb"/>
+                                <timeZone key="timeZone" name="America/Los_Angeles">
+                                    <data key="data">
+VFppZgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAC5AAAABAAAABCepkign7sVkKCGKqChmveQ
+y4kaoNIj9HDSYSYQ1v50INiArZDa/tGg28CQENzes6DdqayQ3r6VoN+JjpDgnneg4WlwkOJ+WaDjSVKQ
+5F47oOUpNJDmR1gg5xJREOgnOiDo8jMQ6gccIOrSFRDr5v4g7LH3EO3G4CDukdkQ76/8oPBxuxDxj96g
+8n/BkPNvwKD0X6OQ9U+ioPY/hZD3L4Sg+CiiEPkPZqD6CIQQ+viDIPvoZhD82GUg/chIEP64RyD/qCoQ
+AJgpIAGIDBACeAsgA3EokARhJ6AFUQqQBkEJoAcw7JAHjUOgCRDOkAmtvyAK8LCQC+CvoAzZzRANwJGg
+DrmvEA+priAQmZEQEYmQIBJ5cxATaXIgFFlVEBVJVCAWOTcQFyk2IBgiU5AZCRggGgI1kBryNKAb4heQ
+HNIWoB3B+ZAesfigH6HbkCB2KyAhgb2QIlYNICNq2hAkNe8gJUq8ECYV0SAnKp4QJ/7toCkKgBAp3s+g
+KupiECu+saAs036QLZ6ToC6zYJAvfnWgMJNCkDFnkiAycySQM0d0IDRTBpA1J1YgNjLokDcHOCA4HAUQ
+OOcaIDn75xA6xvwgO9vJEDywGKA9u6sQPo/6oD+bjRBAb9ygQYSpkEJPvqBDZIuQRC+goEVEbZBF89Mg
+Ry2KEEfTtSBJDWwQSbOXIErtThBLnLOgTNZqkE18laBOtkyQT1x3oFCWLpBRPFmgUnYQkFMcO6BUVfKQ
+VPwdoFY11JBW5TogWB7xEFjFHCBZ/tMQWqT+IFvetRBchOAgXb6XEF5kwiBfnnkQYE3eoGGHlZBiLcCg
+Y2d3kGQNoqBlR1mQZe2EoGcnO5BnzWagaQcdkGmtSKBq5v+Qa5ZlIGzQHBBtdkcgbq/+EG9WKSBwj+AQ
+cTYLIHJvwhBzFe0gdE+kEHT/CaB2OMCQdt7roHgYopB4vs2gefiEkHqer6B72GaQfH6RoH24SJB+XnOg
+f5gqkAABAAECAwEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
+AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
+AQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEA
+AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
+</data>
+                                </timeZone>
+                                <connections>
+                                    <action selector="changedAlarmDate:" destination="eZg-AI-Lm9" eventType="valueChanged" id="uSm-jq-vr1"/>
+                                </connections>
+                            </datePicker>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Alarm" lineBreakMode="tailTruncation" minimumFontSize="10" id="krQ-rT-b67">
+                                <rect key="frame" x="20" y="268" width="200" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                                <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                                <size key="shadowOffset" width="0.0" height="1"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="00:00" lineBreakMode="tailTruncation" minimumFontSize="10" id="oh8-na-f4B">
+                                <rect key="frame" x="228" y="268" width="72" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="DBLCDTempBlack" family="DB LCD Temp" pointSize="24"/>
+                                <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                                <size key="shadowOffset" width="0.0" height="1"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="kN4-c5-MXv" customClass="CoolButton">
+                                <rect key="frame" x="20" y="323" width="280" height="56"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                <size key="titleShadowOffset" width="0.0" height="-1"/>
+                                <state key="normal">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="0.5" colorSpace="calibratedWhite"/>
+                                </state>
+                                <state key="highlighted">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="buttonPressed" destination="eZg-AI-Lm9" eventType="touchUpInside" id="Zjo-z6-7vh"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Label" textAlignment="center" lineBreakMode="tailTruncation" minimumFontSize="10" id="5HT-wM-9cO">
+                                <rect key="frame" x="20" y="340" width="280" height="26"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                                <color key="shadowColor" white="0.5" alpha="0.5" colorSpace="calibratedWhite"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.10196079313755035" green="0.10196079313755035" blue="0.10196079313755035" alpha="1" colorSpace="deviceRGB"/>
+                    </view>
+                    <connections>
+                        <outlet property="alarmDateLabel" destination="oh8-na-f4B" id="bhi-ef-pNQ"/>
+                        <outlet property="button" destination="kN4-c5-MXv" id="1AC-aC-xoc"/>
+                        <outlet property="buttonText" destination="5HT-wM-9cO" id="9AX-i1-lR8"/>
+                        <outlet property="datePicker" destination="oZ3-Zo-ofE" id="5AS-Dv-5Us"/>
+                        <outlet property="labelAlarm" destination="krQ-rT-b67" id="8yL-yU-OIk"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="MGJ-9M-yoX" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1400" y="72"/>
+        </scene>
+        <!--Airports List View Controller - Choose an airport-->
+        <scene sceneID="ost-ri-aHJ">
+            <objects>
+                <tableViewController id="Pn5-vS-GPa" customClass="AirportsListViewController" sceneMemberID="viewController">
+                    <tableView key="view" opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="0vA-2w-LMB">
+                        <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <prototypes>
+                            <tableViewCell contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="AirportCell" textLabel="s6C-z2-3gc" detailTextLabel="nbn-gg-Ygb" style="IBUITableViewCellStyleValue1" id="Vpw-ht-dGe">
+                                <rect key="frame" x="0.0" y="22" width="320" height="44"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                                    <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" text="Title" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="s6C-z2-3gc">
+                                            <rect key="frame" x="10" y="11" width="35" height="21"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                                            <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                            <color key="highlightedColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                        </label>
+                                        <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" text="Detail" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="nbn-gg-Ygb">
+                                            <rect key="frame" x="266" y="11" width="44" height="21"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <color key="textColor" red="0.2196078431372549" green="0.32941176470588235" blue="0.52941176470588236" alpha="1" colorSpace="calibratedRGB"/>
+                                            <color key="highlightedColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                        </label>
+                                    </subviews>
+                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                </view>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="Pn5-vS-GPa" id="B63-w2-GPj"/>
+                            <outlet property="delegate" destination="Pn5-vS-GPa" id="NGw-B6-0dc"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" title="Choose an airport" id="we0-Uv-12z">
+                        <barButtonItem key="leftBarButtonItem" systemItem="cancel" id="o0m-Nq-ZSu">
+                            <connections>
+                                <action selector="cancelButtonPressed:" destination="Pn5-vS-GPa" id="rhS-k7-NaX"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="PbZ-UW-eXf" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1098" y="-683"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="23A-fH-Nho">
+            <objects>
+                <navigationController id="A2q-Jj-1u5" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="c74-f0-Ril" customClass="FlylistaNavigationBar">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="Pn5-vS-GPa" kind="relationship" relationship="rootViewController" id="ebh-pV-0Pz"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="jcV-ZW-0dh" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="642" y="-683"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Arrive.png" width="50" height="20"/>
+        <image name="Departure.png" width="50" height="20"/>
+        <image name="alarm.png" width="20" height="20"/>
+        <image name="info.png" width="24" height="24"/>
+        <image name="timeCrossOut.png" width="70" height="25"/>
+    </resources>
+    <classes>
+        <class className="AirportsListViewController" superclassName="UITableViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/AirportsListViewController.h"/>
+            <relationships>
+                <relationship kind="action" name="cancelButtonPressed:"/>
+            </relationships>
+        </class>
+        <class className="AlarmViewController" superclassName="GAITrackedViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/AlarmViewController.h"/>
+            <relationships>
+                <relationship kind="action" name="buttonPressed"/>
+                <relationship kind="action" name="cancel:"/>
+                <relationship kind="action" name="changedAlarmDate:"/>
+                <relationship kind="outlet" name="alarmDateLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="button" candidateClass="CoolButton"/>
+                <relationship kind="outlet" name="buttonText" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="datePicker" candidateClass="UIDatePicker"/>
+                <relationship kind="outlet" name="labelAlarm" candidateClass="UILabel"/>
+            </relationships>
+        </class>
+        <class className="CoolButton" superclassName="UIButton">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/CoolButton.h"/>
+        </class>
+        <class className="FlightTableViewCell" superclassName="UITableViewCell">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/FlightTableViewCell.h"/>
+            <relationships>
+                <relationship kind="outlet" name="airline" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="airport" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="alarmImageView" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="flightNo" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="scheduleTime" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="statusUpdateImageView" candidateClass="UIImageView"/>
+            </relationships>
+        </class>
+        <class className="FlightViewController" superclassName="GAITrackedViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/FlightViewController.h"/>
+            <relationships>
+                <relationship kind="action" name="shareFlightInfo"/>
+                <relationship kind="action" name="updateLabels"/>
+                <relationship kind="outlet" name="action" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="airline" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="airportArrival" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="airportArrivalIATA" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="airportDeparture" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="airportDepartureIATA" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="alarmBarButton" candidateClass="UIBarButtonItem"/>
+                <relationship kind="outlet" name="alarmImageView" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="alarmTime" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="domInt" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="scheduleTime" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="scheduleTimeLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="status" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="timeCrossOut" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="updatedTime" candidateClass="UILabel"/>
+            </relationships>
+        </class>
+        <class className="FlightsViewController" superclassName="UITableViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/FlightsViewController.h"/>
+            <relationships>
+                <relationship kind="action" name="changedFlightsDirection"/>
+                <relationship kind="outlet" name="airportBarButton" candidateClass="UIBarButtonItem"/>
+                <relationship kind="outlet" name="flightsDirectionSegmentedControl" candidateClass="UISegmentedControl"/>
+            </relationships>
+        </class>
+        <class className="FlylistaNavigationBar" superclassName="PrettyNavigationBar">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/FlylistaNavigationBar.h"/>
+        </class>
+        <class className="FlylistaToolbar" superclassName="PrettyToolbar">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/FlylistaToolbar.h"/>
+        </class>
+        <class className="GAITrackedViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/GAITrackedViewController.h"/>
+        </class>
+        <class className="PrettyNavigationBar" superclassName="UINavigationBar">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/PrettyNavigationBar.h"/>
+        </class>
+        <class className="PrettyToolbar" superclassName="UIToolbar">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/PrettyToolbar.h"/>
+        </class>
+    </classes>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination"/>
+    </simulatedMetricsContainer>
+</document>

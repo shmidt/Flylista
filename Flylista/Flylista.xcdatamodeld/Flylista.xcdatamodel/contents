@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="878" systemVersion="11C74" minimumToolsVersion="Xcode 4.2" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Airline" representedClassName="Airline" syncable="YES">
+        <attribute name="codeIATA" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Airport" representedClassName="Airport" syncable="YES">
+        <attribute name="codeIATA" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Flight" representedClassName="Flight" syncable="YES">
+        <attribute name="airline" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="airlineIATA" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="airport" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="airportIATA" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="beltNo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="checkIn" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="domInt" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="flightID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="gate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isArrivalNotDeparture" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="isTracking" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="remindTime" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="scheduleTime" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="statusCode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="statusTime" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="uniqueID" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Airline" positionX="54" positionY="195" width="128" height="75"/>
+        <element name="Airport" positionX="9" positionY="402" width="128" height="75"/>
+        <element name="Flight" positionX="396" positionY="54" width="128" height="285"/>
+    </elements>
+</model>

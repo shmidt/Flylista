@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Airport</key>
+		<string>Alta</string>
+		<key>AirportCode</key>
+		<string>ALF</string>
+		<key>County</key>
+		<string>Finnmark</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Bardufoss</string>
+		<key>AirportCode</key>
+		<string>BDU</string>
+		<key>County</key>
+		<string>Troms</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Bergen, Flesland</string>
+		<key>AirportCode</key>
+		<string>BGO</string>
+		<key>County</key>
+		<string>Hordaland</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Bodø</string>
+		<key>AirportCode</key>
+		<string>BOO</string>
+		<key>County</key>
+		<string>Nordland</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Harstad/Narvik, Evenes</string>
+		<key>AirportCode</key>
+		<string>EVE</string>
+		<key>County</key>
+		<string>Nordland</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Haugesund, Karmøy</string>
+		<key>AirportCode</key>
+		<string>HAU</string>
+		<key>County</key>
+		<string>Rogaland</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Kirkenes, Høybuktmoen</string>
+		<key>AirportCode</key>
+		<string>KKN</string>
+		<key>County</key>
+		<string>Finnmark</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Kristiansand, Kjevik</string>
+		<key>AirportCode</key>
+		<string>KRS</string>
+		<key>County</key>
+		<string>Vest-Agder</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Kristiansund, Kvernberget</string>
+		<key>AirportCode</key>
+		<string>KSU</string>
+		<key>County</key>
+		<string>Møre og Romsdal</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Molde, Årø</string>
+		<key>AirportCode</key>
+		<string>MOL</string>
+		<key>County</key>
+		<string>Møre og Romsdal</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Moss, Rygge</string>
+		<key>AirportCode</key>
+		<string>RYG</string>
+		<key>County</key>
+		<string>Østfold</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Oslo, Gardermoen</string>
+		<key>AirportCode</key>
+		<string>OSL</string>
+		<key>County</key>
+		<string>Akershus</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Sandefjord, Torp</string>
+		<key>AirportCode</key>
+		<string>TRF</string>
+		<key>County</key>
+		<string>Vestfold</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Stavanger, Sola</string>
+		<key>AirportCode</key>
+		<string>SVG</string>
+		<key>County</key>
+		<string>Rogaland</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Svalbard, Longyear</string>
+		<key>AirportCode</key>
+		<string>LYR</string>
+		<key>County</key>
+		<string>Svalbard</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Tromsø</string>
+		<key>AirportCode</key>
+		<string>TOS</string>
+		<key>County</key>
+		<string>Troms</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Trondheim, Værnes</string>
+		<key>AirportCode</key>
+		<string>TRD</string>
+		<key>County</key>
+		<string>Nord-Trøndelag</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Andenes, Andøya</string>
+		<key>AirportCode</key>
+		<string>ANX</string>
+		<key>County</key>
+		<string>Nordland</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Båtsfjord</string>
+		<key>AirportCode</key>
+		<string>BJF</string>
+		<key>County</key>
+		<string>Finnmark</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Berlevåg</string>
+		<key>AirportCode</key>
+		<string>BVG</string>
+		<key>County</key>
+		<string>Finnmark</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Brønnøysund, Brønnøy</string>
+		<key>AirportCode</key>
+		<string>BNN</string>
+		<key>County</key>
+		<string>Nordland</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Fagernes, Leirin</string>
+		<key>AirportCode</key>
+		<string>VDB</string>
+		<key>County</key>
+		<string>Oppland</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Florø</string>
+		<key>AirportCode</key>
+		<string>FRO</string>
+		<key>County</key>
+		<string>Sogn og Fjordane</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Førde, Bringeland</string>
+		<key>AirportCode</key>
+		<string>FDE</string>
+		<key>County</key>
+		<string>Sogn og Fjordane</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Hammerfest</string>
+		<key>AirportCode</key>
+		<string>HFT</string>
+		<key>County</key>
+		<string>Finnmark</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Hasvik</string>
+		<key>AirportCode</key>
+		<string>HAA</string>
+		<key>County</key>
+		<string>Finnmark</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Honningsvåg, Valan</string>
+		<key>AirportCode</key>
+		<string>HVG</string>
+		<key>County</key>
+		<string>Finnmark</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Lakselv, Banak</string>
+		<key>AirportCode</key>
+		<string>LKL</string>
+		<key>County</key>
+		<string>Finnmark</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Leknes</string>
+		<key>AirportCode</key>
+		<string>LKN</string>
+		<key>County</key>
+		<string>Nordland</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Mehamn</string>
+		<key>AirportCode</key>
+		<string>MEH</string>
+		<key>County</key>
+		<string>Finnmark</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Mo i Rana, Røssvoll</string>
+		<key>AirportCode</key>
+		<string>MQN</string>
+		<key>County</key>
+		<string>Nordland</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Mosjøen, Kjærstad</string>
+		<key>AirportCode</key>
+		<string>MJF</string>
+		<key>County</key>
+		<string>Nordland</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Namsos</string>
+		<key>AirportCode</key>
+		<string>OSY</string>
+		<key>County</key>
+		<string>Nord-Trøndelag</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Narvik, Framnes</string>
+		<key>AirportCode</key>
+		<string>NVK</string>
+		<key>County</key>
+		<string>Nordland</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Notodden</string>
+		<key>AirportCode</key>
+		<string>NTB</string>
+		<key>County</key>
+		<string>Telemark</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Ørland</string>
+		<key>AirportCode</key>
+		<string>OLA</string>
+		<key>County</key>
+		<string>Sør-Trøndelag</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Ørsta-Volda, Hovden</string>
+		<key>AirportCode</key>
+		<string>HOV</string>
+		<key>County</key>
+		<string>Møre og Romsdal</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Røros</string>
+		<key>AirportCode</key>
+		<string>RRS</string>
+		<key>County</key>
+		<string>Sør-Trøndelag</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Rørvik, Ryum</string>
+		<key>AirportCode</key>
+		<string>RVK</string>
+		<key>County</key>
+		<string>Nord-Trøndelag</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Røst</string>
+		<key>AirportCode</key>
+		<string>RET</string>
+		<key>County</key>
+		<string>Nordland</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Sandane, Anda</string>
+		<key>AirportCode</key>
+		<string>SDN</string>
+		<key>County</key>
+		<string>Sogn og Fjordane</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Sandnessjøen, Stokka</string>
+		<key>AirportCode</key>
+		<string>SSJ</string>
+		<key>County</key>
+		<string>Nordland</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Skien, Geiteryggen</string>
+		<key>AirportCode</key>
+		<string>SKE</string>
+		<key>County</key>
+		<string>Telemark</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Sogndal, Haukåsen</string>
+		<key>AirportCode</key>
+		<string>SOG</string>
+		<key>County</key>
+		<string>Sogn og Fjordane</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Sørkjosen</string>
+		<key>AirportCode</key>
+		<string>SOJ</string>
+		<key>County</key>
+		<string>Troms</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Stokmarknes, Skagen</string>
+		<key>AirportCode</key>
+		<string>SKN</string>
+		<key>County</key>
+		<string>Nordland</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Stord, Sørstokken</string>
+		<key>AirportCode</key>
+		<string>SRP</string>
+		<key>County</key>
+		<string>Hordaland</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Svolvær, Helle</string>
+		<key>AirportCode</key>
+		<string>SVJ</string>
+		<key>County</key>
+		<string>Nordland</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Vadsø</string>
+		<key>AirportCode</key>
+		<string>VDS</string>
+		<key>County</key>
+		<string>Finnmark</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Vardø, Svartnes</string>
+		<key>AirportCode</key>
+		<string>VAW</string>
+		<key>County</key>
+		<string>Finnmark</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Farsund, Lista</string>
+		<key>AirportCode</key>
+		<string>FAN</string>
+		<key>County</key>
+		<string>Vest-Agder</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Geilo, Dagali</string>
+		<key>AirportCode</key>
+		<string>DLD</string>
+		<key>County</key>
+		<string>Buskerud</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Gol, Klanten</string>
+		<key>AirportCode</key>
+		<string>GLL</string>
+		<key>County</key>
+		<string>Buskerud</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Hamar, Stafsberg</string>
+		<key>AirportCode</key>
+		<string>HMR</string>
+		<key>County</key>
+		<string>Hedmark</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Kautokeino</string>
+		<key>AirportCode</key>
+		<string>QKX</string>
+		<key>County</key>
+		<string>Finnmark</string>
+	</dict>
+</array>
+</plist>

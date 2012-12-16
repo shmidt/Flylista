@@ -1,0 +1,3900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AAH</key>
+	<string>Aachen</string>
+	<key>AAL</key>
+	<string>Aalborg</string>
+	<key>AAQ</key>
+	<string>Anapa</string>
+	<key>AAR</key>
+	<string>Århus</string>
+	<key>ABA</key>
+	<string>Abakan</string>
+	<key>ABE</key>
+	<string>Allentown-Bethlehem-Easton</string>
+	<key>ABI</key>
+	<string>Abilene</string>
+	<key>ABQ</key>
+	<string>Albuquerque</string>
+	<key>ABR</key>
+	<string>Aberdeen</string>
+	<key>ABS</key>
+	<string>Abu Simbel</string>
+	<key>ABT</key>
+	<string>Abha</string>
+	<key>ABZ</key>
+	<string>Aberdeen</string>
+	<key>ACA</key>
+	<string>Acapulco/Alvarez</string>
+	<key>ACE</key>
+	<string>Lanzarote</string>
+	<key>ACH</key>
+	<string>Altenrhein</string>
+	<key>ACI</key>
+	<string>Alderney</string>
+	<key>ACO</key>
+	<string>Ascona</string>
+	<key>ACT</key>
+	<string>Waco</string>
+	<key>ACV</key>
+	<string>Arcata</string>
+	<key>ACY</key>
+	<string>Atlantic City</string>
+	<key>ADA</key>
+	<string>Adana</string>
+	<key>ADB</key>
+	<string>Izmir</string>
+	<key>ADH</key>
+	<string>Aldan</string>
+	<key>ADW</key>
+	<string>Camp Springs/Andrews</string>
+	<key>AES</key>
+	<string>Ålesund</string>
+	<key>AEY</key>
+	<string>Akureyri</string>
+	<key>AFW</key>
+	<string>Fort Worth Alliance</string>
+	<key>AFY</key>
+	<string>Afyon</string>
+	<key>AGA</key>
+	<string>Agadir</string>
+	<key>AGB</key>
+	<string>Augsburg</string>
+	<key>AGC</key>
+	<string>Pittsburgh/Allegheny</string>
+	<key>AGE</key>
+	<string>Wangerooge</string>
+	<key>AGF</key>
+	<string>Agen/La Garenne</string>
+	<key>AGH</key>
+	<string>Ängelholm Helsingborg</string>
+	<key>AGP</key>
+	<string>Malaga</string>
+	<key>AGQ</key>
+	<string>Agrinion</string>
+	<key>AGR</key>
+	<string>Agra/Kheria</string>
+	<key>AGS</key>
+	<string>Augusta/Budh Field</string>
+	<key>AHN</key>
+	<string>Athens</string>
+	<key>AHO</key>
+	<string>Alghero</string>
+	<key>AHU</key>
+	<string>Al Hoceima</string>
+	<key>AJA</key>
+	<string>Ajaccio</string>
+	<key>AJR</key>
+	<string>Arvidsjaur</string>
+	<key>AKB</key>
+	<string>Aker Barents</string>
+	<key>AKT</key>
+	<string>Akrotiri</string>
+	<key>AKU</key>
+	<string>Aksu</string>
+	<key>AKX</key>
+	<string>Aktyubinsk</string>
+	<key>ALA</key>
+	<string>Almaty</string>
+	<key>ALC</key>
+	<string>Alicante</string>
+	<key>ALF</key>
+	<string>Alta</string>
+	<key>ALI</key>
+	<string>Alice</string>
+	<key>ALJ</key>
+	<string>Alexander Bay</string>
+	<key>ALL</key>
+	<string>Albenga</string>
+	<key>ALN</key>
+	<string>Alton</string>
+	<key>ALO</key>
+	<string>Waterloo</string>
+	<key>ALW</key>
+	<string>Walla Walla</string>
+	<key>ALY</key>
+	<string>Alexandria</string>
+	<key>AMA</key>
+	<string>Amarillo</string>
+	<key>AMM</key>
+	<string>Amman</string>
+	<key>AMS</key>
+	<string>Amsterdam</string>
+	<key>ANB</key>
+	<string>Anniston</string>
+	<key>ANC</key>
+	<string>Anchorage</string>
+	<key>AND</key>
+	<string>Anderson</string>
+	<key>ANE</key>
+	<string>Angers-Avrille</string>
+	<key>ANG</key>
+	<string>Angouleme Brie-Champniers</string>
+	<key>ANK</key>
+	<string>Ankara Etimesgut</string>
+	<key>ANR</key>
+	<string>Antwerpen</string>
+	<key>ANX</key>
+	<string>Andenes</string>
+	<key>AOC</key>
+	<string>Altenburg</string>
+	<key>AOI</key>
+	<string>Ancona</string>
+	<key>AOK</key>
+	<string>Karpathos</string>
+	<key>AOO</key>
+	<string>Altoona</string>
+	<key>AOR</key>
+	<string>Alor Setar</string>
+	<key>APF</key>
+	<string>Naples US</string>
+	<key>APG</key>
+	<string>Aberdeen/Phillips</string>
+	<key>APN</key>
+	<string>Alpena</string>
+	<key>AQJ</key>
+	<string>Aqaba</string>
+	<key>ARH</key>
+	<string>Arkhangelsk</string>
+	<key>ARN</key>
+	<string>Stockholm</string>
+	<key>ART</key>
+	<string>Watertown (NY)</string>
+	<key>ARW</key>
+	<string>Arad</string>
+	<key>ASE</key>
+	<string>Aspen</string>
+	<key>ASF</key>
+	<string>Astrakhan</string>
+	<key>ASM</key>
+	<string>Asmara</string>
+	<key>ASR</key>
+	<string>Kayseri</string>
+	<key>ASW</key>
+	<string>Aswan</string>
+	<key>ATH</key>
+	<string>Athen</string>
+	<key>ATL</key>
+	<string>Atlanta/William</string>
+	<key>ATQ</key>
+	<string>Amritsar</string>
+	<key>ATY</key>
+	<string>Watertown (SD)</string>
+	<key>AUF</key>
+	<string>Auxerre/Moneteau</string>
+	<key>AUH</key>
+	<string>Abu Dhabi</string>
+	<key>AUR</key>
+	<string>Aurillac</string>
+	<key>AUS</key>
+	<string>Austin/Robert M</string>
+	<key>AVB</key>
+	<string>Aviano</string>
+	<key>AVL</key>
+	<string>Asheville</string>
+	<key>AVN</key>
+	<string>Avignon-Caumont</string>
+	<key>AVP</key>
+	<string>Scranton</string>
+	<key>AXD</key>
+	<string>Alexandroupolis</string>
+	<key>AXP</key>
+	<string>Spring Point</string>
+	<key>AYK</key>
+	<string>Arkalyk</string>
+	<key>AYT</key>
+	<string>Antalya</string>
+	<key>AZN</key>
+	<string>Andizhan</string>
+	<key>AZO</key>
+	<string>Kalamazoo</string>
+	<key>AZS</key>
+	<string>El Catey</string>
+	<key>BAE</key>
+	<string>Barcelonnette-Saint-Pons</string>
+	<key>BAF</key>
+	<string>Westfield/Barnes</string>
+	<key>BAH</key>
+	<string>Bahrain</string>
+	<key>BAL</key>
+	<string>Batman</string>
+	<key>BAY</key>
+	<string>Baia Mare</string>
+	<key>BBH</key>
+	<string>Barth</string>
+	<key>BBP</key>
+	<string>Bembridge</string>
+	<key>BBS</key>
+	<string>Blackbushe</string>
+	<key>BCM</key>
+	<string>Bacau</string>
+	<key>BCN</key>
+	<string>Barcelona</string>
+	<key>BCS</key>
+	<string>Belle Chasse</string>
+	<key>BCT</key>
+	<string>Boca Raton</string>
+	<key>BDA</key>
+	<string>Bermuda</string>
+	<key>BDE</key>
+	<string>Baudette</string>
+	<key>BDL</key>
+	<string>Windsor Locks</string>
+	<key>BDM</key>
+	<string>Balikesir Bandirma</string>
+	<key>BDR</key>
+	<string>Bridgeport/Igor I.</string>
+	<key>BDS</key>
+	<string>Brindisi</string>
+	<key>BDU</key>
+	<string>Bardufoss</string>
+	<key>BEB</key>
+	<string>Benbecula</string>
+	<key>BED</key>
+	<string>Bedford</string>
+	<key>BEG</key>
+	<string>Beograd</string>
+	<key>BES</key>
+	<string>Brest</string>
+	<key>BEV</key>
+	<string>Beer-Sheba</string>
+	<key>BEX</key>
+	<string>Benson</string>
+	<key>BEY</key>
+	<string>Beirut</string>
+	<key>BFD</key>
+	<string>Bradford</string>
+	<key>BFE</key>
+	<string>Bielefeld</string>
+	<key>BFF</key>
+	<string>Scottsbluff</string>
+	<key>BFI</key>
+	<string>Seattle Boeing Field</string>
+	<key>BFL</key>
+	<string>Bakersfield</string>
+	<key>BFS</key>
+	<string>Belfast International</string>
+	<key>BFT</key>
+	<string>Beaufort</string>
+	<key>BGC</key>
+	<string>Braganca</string>
+	<key>BGI</key>
+	<string>Barbados</string>
+	<key>BGM</key>
+	<string>Binghamton</string>
+	<key>BGO</key>
+	<string>Bergen</string>
+	<key>BGR</key>
+	<string>Bangor</string>
+	<key>BGY</key>
+	<string>Milano Orio Al Serio</string>
+	<key>BGZ</key>
+	<string>Braga</string>
+	<key>BHD</key>
+	<string>Belfast City</string>
+	<key>BHH</key>
+	<string>Arar</string>
+	<key>BHK</key>
+	<string>Bukhara</string>
+	<key>BHM</key>
+	<string>Birmingham US</string>
+	<key>BHX</key>
+	<string>Birmingham</string>
+	<key>BHZ</key>
+	<string>Belo Horizonte Tancredo N</string>
+	<key>BIA</key>
+	<string>Bastia</string>
+	<key>BIF</key>
+	<string>El Paso Biggs AAF</string>
+	<key>BIL</key>
+	<string>Billings</string>
+	<key>BIM</key>
+	<string>Alice Town</string>
+	<key>BIO</key>
+	<string>Bilbao</string>
+	<key>BIQ</key>
+	<string>Biarritz</string>
+	<key>BIS</key>
+	<string>Bismarck</string>
+	<key>BIX</key>
+	<string>Biloxi/Keesler</string>
+	<key>BJD</key>
+	<string>Bakkafjordur</string>
+	<key>BJF</key>
+	<string>Båtsfjord</string>
+	<key>BJL</key>
+	<string>Banjul/Yundum</string>
+	<key>BJS</key>
+	<string>Beijing City</string>
+	<key>BJV</key>
+	<string>Bodrum/Milas</string>
+	<key>BJZ</key>
+	<string>Badajoz</string>
+	<key>BKE</key>
+	<string>Baker</string>
+	<key>BKK</key>
+	<string>Bangkok</string>
+	<key>BKL</key>
+	<string>Cleveland Burke Lakefront</string>
+	<key>BKW</key>
+	<string>Beckley</string>
+	<key>BLA</key>
+	<string>Beauvais-Tille</string>
+	<key>BLE</key>
+	<string>Borlänge</string>
+	<key>BLI</key>
+	<string>Bellingham</string>
+	<key>BLK</key>
+	<string>Blackpool</string>
+	<key>BLL</key>
+	<string>Billund</string>
+	<key>BLO</key>
+	<string>Blonduos</string>
+	<key>BLQ</key>
+	<string>Bologna</string>
+	<key>BLV</key>
+	<string>Belleville</string>
+	<key>BLX</key>
+	<string>Belluno</string>
+	<key>BLY</key>
+	<string>Belmullet</string>
+	<key>BMA</key>
+	<string>Stockholm Bromma</string>
+	<key>BMG</key>
+	<string>Bloomington</string>
+	<key>BMR</key>
+	<string>Baltrum</string>
+	<key>BNA</key>
+	<string>Nashville</string>
+	<key>BNN</key>
+	<string>Brønnøysund</string>
+	<key>BOD</key>
+	<string>Bordeaux</string>
+	<key>BOF</key>
+	<string>Washington Bolling</string>
+	<key>BOH</key>
+	<string>Bournemouth</string>
+	<key>BOI</key>
+	<string>Boise</string>
+	<key>BOJ</key>
+	<string>Burgas</string>
+	<key>BOL</key>
+	<string>Ballykelly</string>
+	<key>BOM</key>
+	<string>Mumbai</string>
+	<key>BOO</key>
+	<string>Bodø</string>
+	<key>BOR</key>
+	<string>Belfort/Chaux</string>
+	<key>BOS</key>
+	<string>Boston Logan Intl</string>
+	<key>BOU</key>
+	<string>Bourges</string>
+	<key>BPT</key>
+	<string>Beaumont</string>
+	<key>BQH</key>
+	<string>Biggin Hill</string>
+	<key>BQK</key>
+	<string>Brunswick Glynco J</string>
+	<key>BRE</key>
+	<string>Bremen</string>
+	<key>BRG</key>
+	<string>Kentucky</string>
+	<key>BRI</key>
+	<string>Bari</string>
+	<key>BRL</key>
+	<string>Burlington</string>
+	<key>BRN</key>
+	<string>Bern-Belp</string>
+	<key>BRO</key>
+	<string>Brownsville/South Pa</string>
+	<key>BRQ</key>
+	<string>Brno</string>
+	<key>BRR</key>
+	<string>Barra</string>
+	<key>BRS</key>
+	<string>Bristol</string>
+	<key>BRU</key>
+	<string>Brussel</string>
+	<key>BRV</key>
+	<string>Bremerhaven</string>
+	<key>BSB</key>
+	<string>Brasilia</string>
+	<key>BSL</key>
+	<string>Basel/Mulhouse/Freiburg</string>
+	<key>BSM</key>
+	<string>Austin</string>
+	<key>BSR</key>
+	<string>Basrah</string>
+	<key>BTL</key>
+	<string>Battle Creek</string>
+	<key>BTM</key>
+	<string>Butte</string>
+	<key>BTR</key>
+	<string>Baton Rouge</string>
+	<key>BTS</key>
+	<string>Bratislava</string>
+	<key>BTV</key>
+	<string>Burlington</string>
+	<key>BTZ</key>
+	<string>Bursa</string>
+	<key>BUD</key>
+	<string>Budapest</string>
+	<key>BUF</key>
+	<string>Buffalo/Greater</string>
+	<key>BUH</key>
+	<string>Bucuresti Baneasa</string>
+	<key>BUR</key>
+	<string>Burbank</string>
+	<key>BVA</key>
+	<string>Paris Beauvais</string>
+	<key>BVB</key>
+	<string>Boa Vista</string>
+	<key>BVE</key>
+	<string>Brive La Gaillarde</string>
+	<key>BVG</key>
+	<string>Berlevåg</string>
+	<key>BVY</key>
+	<string>Beverly</string>
+	<key>BWE</key>
+	<string>Braunschweig</string>
+	<key>BWF</key>
+	<string>Barrow/Walney Island</string>
+	<key>BWG</key>
+	<string>Bowling Green/Warren C</string>
+	<key>BWI</key>
+	<string>Baltimore Washington Intl</string>
+	<key>BYH</key>
+	<string>Blytheville</string>
+	<key>BYI</key>
+	<string>Burley</string>
+	<key>BYR</key>
+	<string>Laeso</string>
+	<key>BYS</key>
+	<string>Fort Irwin/Bicycle</string>
+	<key>BYT</key>
+	<string>Bantry</string>
+	<key>BYU</key>
+	<string>Bayreuth</string>
+	<key>BZI</key>
+	<string>Balikesir Edremit-Korfez</string>
+	<key>BZM</key>
+	<string>Bergen Op Zoom</string>
+	<key>BZO</key>
+	<string>Bolzano</string>
+	<key>BZR</key>
+	<string>Beziers-Vias</string>
+	<key>BZZ</key>
+	<string>Brize Norton</string>
+	<key>CAE</key>
+	<string>Colimbia Metropolitan</string>
+	<key>CAG</key>
+	<string>Cagliari</string>
+	<key>CAI</key>
+	<string>Kairo</string>
+	<key>CAL</key>
+	<string>Campbeltown</string>
+	<key>CAR</key>
+	<string>Caribou</string>
+	<key>CAS</key>
+	<string>Casablanca Anfa</string>
+	<key>CAX</key>
+	<string>Carlisle</string>
+	<key>CBG</key>
+	<string>Cambridge</string>
+	<key>CBP</key>
+	<string>Coimbra</string>
+	<key>CBU</key>
+	<string>Cottbus</string>
+	<key>CCF</key>
+	<string>Carcassonne</string>
+	<key>CCZ</key>
+	<string>Chub Cay, Berry I.</string>
+	<key>CDC</key>
+	<string>Cedar City</string>
+	<key>CDF</key>
+	<string>Cortina</string>
+	<key>CDG</key>
+	<string>Paris Charles de Gaulle</string>
+	<key>CDN</key>
+	<string>Camden</string>
+	<key>CEC</key>
+	<string>Crescent City/Mc Namar</string>
+	<key>CEF</key>
+	<string>Springfield Westover</string>
+	<key>CEI</key>
+	<string>Chiang Rai</string>
+	<key>CEL</key>
+	<string>Cape Eleuthera, Eleuthera I.</string>
+	<key>CEQ</key>
+	<string>Cannes Mandelieu</string>
+	<key>CER</key>
+	<string>Cherbourg</string>
+	<key>CET</key>
+	<string>Cholet-Le Pontreau</string>
+	<key>CEW</key>
+	<string>Crestview/Bob Sike</string>
+	<key>CFE</key>
+	<string>Clermont-Ferrand</string>
+	<key>CFN</key>
+	<string>Donegal</string>
+	<key>CFR</key>
+	<string>Caen</string>
+	<key>CFU</key>
+	<string>Korfu</string>
+	<key>CGF</key>
+	<string>Cleveland Cuyahoga</string>
+	<key>CGH</key>
+	<string>Sao Paulo Congonhas</string>
+	<key>CGI</key>
+	<string>Cape Girardeau</string>
+	<key>CGN</key>
+	<string>Köln Bonn</string>
+	<key>CGX</key>
+	<string>Chicago Merrill</string>
+	<key>CHA</key>
+	<string>Chattanooga</string>
+	<key>CHC</key>
+	<string>Christchurch</string>
+	<key>CHD</key>
+	<string>Chandler/Williams</string>
+	<key>CHO</key>
+	<string>Charlottesville</string>
+	<key>CHQ</key>
+	<string>Chania</string>
+	<key>CHR</key>
+	<string>Chateauroux/Villers</string>
+	<key>CHS</key>
+	<string>Charleston</string>
+	<key>CHV</key>
+	<string>Chaves</string>
+	<key>CIA</key>
+	<string>Roma Ciampino</string>
+	<key>CID</key>
+	<string>Cedar Rapids</string>
+	<key>CIH</key>
+	<string>Changzhi</string>
+	<key>CIU</key>
+	<string>Sault Ste Marie</string>
+	<key>CJS</key>
+	<string>Ciudad Juarez</string>
+	<key>CKB</key>
+	<string>Clarksburg</string>
+	<key>CKZ</key>
+	<string>Canakkale</string>
+	<key>CLB</key>
+	<string>Castlebar</string>
+	<key>CLE</key>
+	<string>Cleveland Hopkins</string>
+	<key>CLL</key>
+	<string>College Station</string>
+	<key>CLM</key>
+	<string>Port Angeles/Fairchild</string>
+	<key>CLT</key>
+	<string>Charlotte</string>
+	<key>CLY</key>
+	<string>Calvi</string>
+	<key>CMF</key>
+	<string>Chambery</string>
+	<key>CMH</key>
+	<string>Columbus Port Columbus Intl</string>
+	<key>CMI</key>
+	<string>Champaign/Willard</string>
+	<key>CMN</key>
+	<string>Casablanca Mohamed V</string>
+	<key>CMR</key>
+	<string>Colmar/Houssen</string>
+	<key>CND</key>
+	<string>Constanta</string>
+	<key>CNG</key>
+	<string>Cognac/Chateau Bernard</string>
+	<key>CNM</key>
+	<string>Carlsbad</string>
+	<key>CNP</key>
+	<string>Nerlerit Inaat/Constable Pynt</string>
+	<key>CNX</key>
+	<string>Chiang Mai</string>
+	<key>COF</key>
+	<string>Cocoa</string>
+	<key>COH</key>
+	<string>Cooch-Behar</string>
+	<key>COS</key>
+	<string>Colorado Springs</string>
+	<key>COU</key>
+	<string>Colimbia Regional</string>
+	<key>COV</key>
+	<string>Covilha</string>
+	<key>COX</key>
+	<string>Congo Town, Andros I.</string>
+	<key>CPH</key>
+	<string>København</string>
+	<key>CPR</key>
+	<string>Casper</string>
+	<key>CPT</key>
+	<string>Cape Town</string>
+	<key>CQF</key>
+	<string>Calais/Dunkerque</string>
+	<key>CQM</key>
+	<string>Ciudad Real Airport</string>
+	<key>CRA</key>
+	<string>Craiova</string>
+	<key>CRI</key>
+	<string>Pittsdown Crooked Island</string>
+	<key>CRL</key>
+	<string>Brussel Sør/Charleroi</string>
+	<key>CRP</key>
+	<string>Corpus Christi International</string>
+	<key>CRV</key>
+	<string>Crotone</string>
+	<key>CRW</key>
+	<string>Charleston</string>
+	<key>CRZ</key>
+	<string>Chardzhou</string>
+	<key>CSB</key>
+	<string>Caransebes</string>
+	<key>CSF</key>
+	<string>Creil</string>
+	<key>CSG</key>
+	<string>Columbus Metropolitan</string>
+	<key>CTA</key>
+	<string>Catania</string>
+	<key>CTB</key>
+	<string>Cut Bank</string>
+	<key>CTT</key>
+	<string>Le Castellet</string>
+	<key>CUF</key>
+	<string>Cuneo/Levaldigi</string>
+	<key>CUN</key>
+	<string>Cancun</string>
+	<key>CVF</key>
+	<string>Courchevel</string>
+	<key>CVO</key>
+	<string>Corvallis</string>
+	<key>CVS</key>
+	<string>Clovis</string>
+	<key>CVT</key>
+	<string>Coventry</string>
+	<key>CVU</key>
+	<string>Corvo</string>
+	<key>CWL</key>
+	<string>Cardiff</string>
+	<key>CXL</key>
+	<string>Calexico</string>
+	<key>CXO</key>
+	<string>Conroe Montgomery</string>
+	<key>CYS</key>
+	<string>Cheyenne</string>
+	<key>CZW</key>
+	<string>Czesochowa/Ridniki</string>
+	<key>DAA</key>
+	<string>Fort Belvoir</string>
+	<key>DAB</key>
+	<string>Daytona Beach</string>
+	<key>DAL</key>
+	<string>Dallas Love Field</string>
+	<key>DAM</key>
+	<string>Damaskus</string>
+	<key>DAN</key>
+	<string>Danville</string>
+	<key>DAY</key>
+	<string>Dayton James Cox International</string>
+	<key>DBQ</key>
+	<string>Dubuque</string>
+	<key>DBV</key>
+	<string>Dubrovnik</string>
+	<key>DBX</key>
+	<string>Dubai</string>
+	<key>DCA</key>
+	<string>Washington Dc National</string>
+	<key>DCI</key>
+	<string>Decimomannu</string>
+	<key>DCM</key>
+	<string>Castres</string>
+	<key>DCT</key>
+	<string>Duncan Town,Ragged I.</string>
+	<key>DDC</key>
+	<string>Dodge City</string>
+	<key>DEB</key>
+	<string>Debrecen</string>
+	<key>DEC</key>
+	<string>Decatur</string>
+	<key>DEL</key>
+	<string>New Delhi</string>
+	<key>DEN</key>
+	<string>Denver</string>
+	<key>DET</key>
+	<string>Detroit City</string>
+	<key>DFW</key>
+	<string>Dallas Fort Worth</string>
+	<key>DGP</key>
+	<string>Daugavpils</string>
+	<key>DHN</key>
+	<string>Dothan</string>
+	<key>DHR</key>
+	<string>Den Helder/De Kooy</string>
+	<key>DIJ</key>
+	<string>Dijon</string>
+	<key>DIY</key>
+	<string>Diyarbakir</string>
+	<key>DJE</key>
+	<string>Djerba</string>
+	<key>DJU</key>
+	<string>Djupivogur</string>
+	<key>DLD</key>
+	<string>Geilo</string>
+	<key>DLE</key>
+	<string>Dole/Tavaux</string>
+	<key>DLH</key>
+	<string>Duluth</string>
+	<key>DLM</key>
+	<string>Dalaman</string>
+	<key>DMA</key>
+	<string>Tucson Davis Monthan AFB</string>
+	<key>DME</key>
+	<string>Moskva Domodedovo</string>
+	<key>DMM</key>
+	<string>Dammam</string>
+	<key>DMN</key>
+	<string>Deming</string>
+	<key>DND</key>
+	<string>Dundee</string>
+	<key>DNK</key>
+	<string>Dnepropetrovsk</string>
+	<key>DNR</key>
+	<string>Dinard</string>
+	<key>DNZ</key>
+	<string>Denizli/Cardak</string>
+	<key>DOH</key>
+	<string>Doha</string>
+	<key>DOL</key>
+	<string>Deauville</string>
+	<key>DOV</key>
+	<string>Dover-Cheswold</string>
+	<key>DPE</key>
+	<string>Dieppe/Saint-Aubin</string>
+	<key>DRI</key>
+	<string>De Ridder/Beaurega</string>
+	<key>DRS</key>
+	<string>Dresden</string>
+	<key>DSE</key>
+	<string>Dessie</string>
+	<key>DSM</key>
+	<string>Des Moines</string>
+	<key>DTM</key>
+	<string>Dortmund</string>
+	<key>DUB</key>
+	<string>Dublin</string>
+	<key>DUJ</key>
+	<string>Dubois/Jefferson</string>
+	<key>DUR</key>
+	<string>Durban</string>
+	<key>DUS</key>
+	<string>Düsseldorf</string>
+	<key>DXB</key>
+	<string>Dubai</string>
+	<key>EAS</key>
+	<string>San Sebastian</string>
+	<key>EAU</key>
+	<string>Eau Claire</string>
+	<key>EBJ</key>
+	<string>Esbjerg</string>
+	<key>EBL</key>
+	<string>Erbil</string>
+	<key>EBM</key>
+	<string>El Borma</string>
+	<key>EBU</key>
+	<string>Saint Etienne</string>
+	<key>ECG</key>
+	<string>Elizabeth City</string>
+	<key>EDI</key>
+	<string>Edinburgh</string>
+	<key>EDW</key>
+	<string>Edwards AFB</string>
+	<key>EEN</key>
+	<string>Keene/Dillant</string>
+	<key>EFL</key>
+	<string>Kefallinia</string>
+	<key>EGC</key>
+	<string>Bergerac</string>
+	<key>EGS</key>
+	<string>Egilsstadir</string>
+	<key>EIB</key>
+	<string>Eisenach</string>
+	<key>EIN</key>
+	<string>Eindhoven</string>
+	<key>EIY</key>
+	<string>Eyn-Yahav Airstrip</string>
+	<key>EJH</key>
+	<string>Wadi Ad Dawasir</string>
+	<key>EKA</key>
+	<string>Eureka Murray Field</string>
+	<key>EKN</key>
+	<string>Elkins</string>
+	<key>EKO</key>
+	<string>Elko</string>
+	<key>EKT</key>
+	<string>Eskilstuna</string>
+	<key>ELD</key>
+	<string>El Dorado/Goodwin</string>
+	<key>ELH</key>
+	<string>North Eleuthera</string>
+	<key>ELM</key>
+	<string>Elmira</string>
+	<key>ELP</key>
+	<string>El Paso</string>
+	<key>ELQ</key>
+	<string>Dhahran</string>
+	<key>EMA</key>
+	<string>Nottingham/East Midland</string>
+	<key>EME</key>
+	<string>Emden</string>
+	<key>ENC</key>
+	<string>Nancy-Essey</string>
+	<key>END</key>
+	<string>Enid/Vance AF</string>
+	<key>ENF</key>
+	<string>Enontekio</string>
+	<key>ENK</key>
+	<string>Enniskillen/St.Angelo</string>
+	<key>ENS</key>
+	<string>Enschede</string>
+	<key>ENW</key>
+	<string>Kenosha</string>
+	<key>EPK</key>
+	<string>Episkopi</string>
+	<key>EPL</key>
+	<string>Epinal-Mirecourt</string>
+	<key>EQI</key>
+	<string>Eday</string>
+	<key>ERC</key>
+	<string>Erzincan</string>
+	<key>ERF</key>
+	<string>Erfurt</string>
+	<key>ERH</key>
+	<string>Errachidia/Mouay Ali Cherif</string>
+	<key>ERI</key>
+	<string>Erie</string>
+	<key>ERZ</key>
+	<string>Erzurum</string>
+	<key>ESB</key>
+	<string>Ankara Esenboga</string>
+	<key>ESH</key>
+	<string>Shoreham</string>
+	<key>ESK</key>
+	<string>Eskisehir/Anadolu</string>
+	<key>ESS</key>
+	<string>Essen</string>
+	<key>ETH</key>
+	<string>Eilat/J. Hozman Airport</string>
+	<key>ETZ</key>
+	<string>Metz/Nancy</string>
+	<key>EUG</key>
+	<string>Eugene</string>
+	<key>EVE</key>
+	<string>Harstad/Narvik</string>
+	<key>EVG</key>
+	<string>Sveg</string>
+	<key>EVN</key>
+	<string>Jerevan</string>
+	<key>EVV</key>
+	<string>Evansville/Dress Re</string>
+	<key>EVX</key>
+	<string>Evreux-Fauville</string>
+	<key>EWB</key>
+	<string>New Bedford</string>
+	<key>EWN</key>
+	<string>New Bern/Simmons</string>
+	<key>EWR</key>
+	<string>New York Newark</string>
+	<key>EXT</key>
+	<string>Exeter</string>
+	<key>EYW</key>
+	<string>Key West</string>
+	<key>EZS</key>
+	<string>Elazig</string>
+	<key>FAB</key>
+	<string>Farnborough</string>
+	<key>FAE</key>
+	<string>Færøyene</string>
+	<key>FAG</key>
+	<string>Fagurholsmyri</string>
+	<key>FAN</key>
+	<string>Farsund</string>
+	<key>FAO</key>
+	<string>Faro</string>
+	<key>FAR</key>
+	<string>Fargo/Hector F</string>
+	<key>FAT</key>
+	<string>Fresno</string>
+	<key>FAY</key>
+	<string>Fayetteville Municipal</string>
+	<key>FBG</key>
+	<string>Fort Bragg/Simmons</string>
+	<key>FCA</key>
+	<string>Kalispell</string>
+	<key>FCO</key>
+	<string>Roma Fiumicino</string>
+	<key>FDE</key>
+	<string>Førde</string>
+	<key>FDH</key>
+	<string>Friedrichshafen</string>
+	<key>FEZ</key>
+	<string>Fez</string>
+	<key>FFD</key>
+	<string>Fairford</string>
+	<key>FFO</key>
+	<string>Dayton Patterson</string>
+	<key>FHU</key>
+	<string>Fort Huachuca/Libby AA</string>
+	<key>FIE</key>
+	<string>Fair Isle</string>
+	<key>FIN</key>
+	<string>Finnmark</string>
+	<key>FLF</key>
+	<string>Flensburg/Schaferhaus</string>
+	<key>FLG</key>
+	<string>Flagstaff/Pulliam</string>
+	<key>FLO</key>
+	<string>Florence</string>
+	<key>FLR</key>
+	<string>Firenze</string>
+	<key>FLV</key>
+	<string>Fort Leavenworth/Sherman</string>
+	<key>FLW</key>
+	<string>Azorene Flores</string>
+	<key>FME</key>
+	<string>Fort Meade/Tipton A</string>
+	<key>FMO</key>
+	<string>Münster</string>
+	<key>FNC</key>
+	<string>Funchal</string>
+	<key>FNI</key>
+	<string>Nimes</string>
+	<key>FNT</key>
+	<string>Flint/Bishop</string>
+	<key>FOD</key>
+	<string>Fort Dodge</string>
+	<key>FOE</key>
+	<string>Topeka</string>
+	<key>FOG</key>
+	<string>Foggia</string>
+	<key>FOR</key>
+	<string>Fortaleza</string>
+	<key>FPM</key>
+	<string>Melun</string>
+	<key>FPO</key>
+	<string>Freeport/Intl,Grand Bahama I</string>
+	<key>FPR</key>
+	<string>Fort Pierce/St Lucie</string>
+	<key>FRA</key>
+	<string>Frankfurt</string>
+	<key>FRG</key>
+	<string>Farmingdale</string>
+	<key>FRI</key>
+	<string>Fort Riley/Marshall</string>
+	<key>FRL</key>
+	<string>Forli</string>
+	<key>FRO</key>
+	<string>Florø</string>
+	<key>FRU</key>
+	<string>Manas</string>
+	<key>FRZ</key>
+	<string>Fritzlar</string>
+	<key>FSC</key>
+	<string>Figari Corsica</string>
+	<key>FSD</key>
+	<string>Sioux Falls</string>
+	<key>FSI</key>
+	<string>Fort Sill/Henry Po</string>
+	<key>FSM</key>
+	<string>Fort Smith</string>
+	<key>FTW</key>
+	<string>Fort Worth Meacham</string>
+	<key>FTY</key>
+	<string>Atlanta/Fulton C</string>
+	<key>FUE</key>
+	<string>Fuerteventura</string>
+	<key>FUK</key>
+	<string>Fukuoka</string>
+	<key>FWA</key>
+	<string>Fort Wayne</string>
+	<key>FWH</key>
+	<string>Fort Worth Carswell</string>
+	<key>FYV</key>
+	<string>Fayetteville Drake Field</string>
+	<key>FZO</key>
+	<string>Filton</string>
+	<key>GAE</key>
+	<string>Gabes</string>
+	<key>GAF</key>
+	<string>Gafsa</string>
+	<key>GAL</key>
+	<string>Galena</string>
+	<key>GAN</key>
+	<string>Gan Island</string>
+	<key>GBI</key>
+	<string>Grand Bahama</string>
+	<key>GCI</key>
+	<string>Guernsey</string>
+	<key>GCK</key>
+	<string>Garden City</string>
+	<key>GCN</key>
+	<string>Grand Canyon</string>
+	<key>GDN</key>
+	<string>Gdansk</string>
+	<key>GDX</key>
+	<string>Magadan/Sokol</string>
+	<key>GEG</key>
+	<string>Spokane International</string>
+	<key>GEV</key>
+	<string>Gällivare</string>
+	<key>GFA</key>
+	<string>Great Falls Malmstrom AFB</string>
+	<key>GFL</key>
+	<string>Glens Falls/Warren C</string>
+	<key>GFR</key>
+	<string>Granville</string>
+	<key>GGG</key>
+	<string>Longview</string>
+	<key>GGT</key>
+	<string>George Town, Exuma I.</string>
+	<key>GGW</key>
+	<string>Glasgow US</string>
+	<key>GHC</key>
+	<string>Bullocks Harbour</string>
+	<key>GHF</key>
+	<string>Giebelstadt</string>
+	<key>GHK</key>
+	<string>Gush Katif</string>
+	<key>GIA</key>
+	<string>Gap-Tallard</string>
+	<key>GIB</key>
+	<string>Gibraltar/North Fr</string>
+	<key>GIG</key>
+	<string>Rio De Janeiro Galeao</string>
+	<key>GIZ</key>
+	<string>Gassim</string>
+	<key>GJR</key>
+	<string>Gjogur</string>
+	<key>GKB</key>
+	<string>Bangalore</string>
+	<key>GKE</key>
+	<string>Geilenkirchen</string>
+	<key>GLA</key>
+	<string>Glasgow</string>
+	<key>GLL</key>
+	<string>Gol</string>
+	<key>GLO</key>
+	<string>Gloucestershire</string>
+	<key>GLZ</key>
+	<string>Breda/Gilze-Rijen</string>
+	<key>GNB</key>
+	<string>Grenoble</string>
+	<key>GNV</key>
+	<string>Gainesville/J R Alis</string>
+	<key>GOA</key>
+	<string>Genova</string>
+	<key>GOH</key>
+	<string>Nuuk/Godthaab</string>
+	<key>GOI</key>
+	<string>Goa</string>
+	<key>GOJ</key>
+	<string>Novgorod</string>
+	<key>GON</key>
+	<string>Groton</string>
+	<key>GOT</key>
+	<string>Göteborg</string>
+	<key>GOZ</key>
+	<string>Gorna Orechovitsa</string>
+	<key>GPA</key>
+	<string>Patras/Araxos A</string>
+	<key>GPT</key>
+	<string>Gulfport/Biloxi R</string>
+	<key>GRJ</key>
+	<string>George Airport</string>
+	<key>GRO</key>
+	<string>Girona</string>
+	<key>GRQ</key>
+	<string>Groningen</string>
+	<key>GRR</key>
+	<string>Grand Rapids</string>
+	<key>GRS</key>
+	<string>Grosseto</string>
+	<key>GRU</key>
+	<string>Sao Paulo Guarulhos</string>
+	<key>GRW</key>
+	<string>Azorene GRW</string>
+	<key>GRX</key>
+	<string>Granada</string>
+	<key>GRY</key>
+	<string>Grimsey</string>
+	<key>GRZ</key>
+	<string>Graz</string>
+	<key>GSB</key>
+	<string>Goldsboro/Seymour</string>
+	<key>GSE</key>
+	<string>Göteborg Säve</string>
+	<key>GSP</key>
+	<string>Greenville Spartanburg Intl</string>
+	<key>GTF</key>
+	<string>Great Falls International</string>
+	<key>GTW</key>
+	<string>Zlin</string>
+	<key>GUP</key>
+	<string>Gallup/Senator</string>
+	<key>GUS</key>
+	<string>Peru</string>
+	<key>GVA</key>
+	<string>Geneve</string>
+	<key>GVX</key>
+	<string>Gavle</string>
+	<key>GWO</key>
+	<string>Greenwood Leflore</string>
+	<key>GWT</key>
+	<string>Westerland/Sylt</string>
+	<key>GWY</key>
+	<string>Galway Carnmore</string>
+	<key>GYD</key>
+	<string>Baku</string>
+	<key>GYY</key>
+	<string>Gary</string>
+	<key>GZT</key>
+	<string>Gaziantep</string>
+	<key>HAA</key>
+	<string>Hasvik</string>
+	<key>HAD</key>
+	<string>Halmstad</string>
+	<key>HAJ</key>
+	<string>Hannover</string>
+	<key>HAM</key>
+	<string>Hamburg</string>
+	<key>HAQ</key>
+	<string>Hanimaadhoo</string>
+	<key>HAU</key>
+	<string>Haugesund</string>
+	<key>HAV</key>
+	<string>Havana</string>
+	<key>HAW</key>
+	<string>Haverfordwest</string>
+	<key>HDB</key>
+	<string>Heidelberg</string>
+	<key>HDF</key>
+	<string>Heringsdorf</string>
+	<key>HEL</key>
+	<string>Helsinki</string>
+	<key>HER</key>
+	<string>Heraklion</string>
+	<key>HFA</key>
+	<string>Haifa</string>
+	<key>HFD</key>
+	<string>Hartford/Brainard</string>
+	<key>HFN</key>
+	<string>Hofn/Hornafjordur</string>
+	<key>HFS</key>
+	<string>Hagfors</string>
+	<key>HFT</key>
+	<string>Hammerfest</string>
+	<key>HGL</key>
+	<string>Helgoland-Dune</string>
+	<key>HGR</key>
+	<string>Hagerstown/Wash. Co</string>
+	<key>HHN</key>
+	<string>Frankfurt Hahn</string>
+	<key>HHR</key>
+	<string>Hawthorne</string>
+	<key>HIB</key>
+	<string>Hibbing/Chisholm</string>
+	<key>HIF</key>
+	<string>Ogden/Hill AFB</string>
+	<key>HIJ</key>
+	<string>Hiroshima</string>
+	<key>HKG</key>
+	<string>Hongkong</string>
+	<key>HKT</key>
+	<string>Phuket</string>
+	<key>HKY</key>
+	<string>Hickory</string>
+	<key>HLF</key>
+	<string>Hultsfred</string>
+	<key>HLN</key>
+	<string>Helena</string>
+	<key>HLY</key>
+	<string>Holyhead</string>
+	<key>HMA</key>
+	<string>Khanty-Mansiysk</string>
+	<key>HMN</key>
+	<string>Alamogordo</string>
+	<key>HMR</key>
+	<string>Hamar</string>
+	<key>HMV</key>
+	<string>Hemavan</string>
+	<key>HND</key>
+	<string>Tokyo Haneda</string>
+	<key>HOF</key>
+	<string>Hail</string>
+	<key>HOH</key>
+	<string>Hohenems</string>
+	<key>HON</key>
+	<string>Huron/Howes</string>
+	<key>HOQ</key>
+	<string>Hof</string>
+	<key>HOR</key>
+	<string>Azorene Horta</string>
+	<key>HOU</key>
+	<string>Houston Hobby</string>
+	<key>HOV</key>
+	<string>Ørsta/Volda</string>
+	<key>HPN</key>
+	<string>White Plains</string>
+	<key>HQM</key>
+	<string>Hoquiam/Bowerman</string>
+	<key>HRD</key>
+	<string>Harstad</string>
+	<key>HRG</key>
+	<string>Hurghada</string>
+	<key>HRK</key>
+	<string>Kharkov</string>
+	<key>HRL</key>
+	<string>Harlingen/Valley I</string>
+	<key>HRO</key>
+	<string>Harrison/Boone Co</string>
+	<key>HST</key>
+	<string>Homestead</string>
+	<key>HSV</key>
+	<string>Huntsville</string>
+	<key>HTS</key>
+	<string>Huntington</string>
+	<key>HUA</key>
+	<string>Huntsville/Redstone</string>
+	<key>HUF</key>
+	<string>Terre Haute</string>
+	<key>HUV</key>
+	<string>Hudiksvall</string>
+	<key>HUY</key>
+	<string>Humberside</string>
+	<key>HVG</key>
+	<string>Honningsvåg</string>
+	<key>HVK</key>
+	<string>Holmavik</string>
+	<key>HVN</key>
+	<string>New Haven</string>
+	<key>HYA</key>
+	<string>Hyannis Barnstable</string>
+	<key>HYC</key>
+	<string>High Wycombe</string>
+	<key>HYV</key>
+	<string>Hyvinkää</string>
+	<key>HZK</key>
+	<string>Husavik</string>
+	<key>IAD</key>
+	<string>Washington Dulles </string>
+	<key>IAG</key>
+	<string>Niagara Falls</string>
+	<key>IAH</key>
+	<string>Houston</string>
+	<key>IAS</key>
+	<string>Iasi</string>
+	<key>IBZ</key>
+	<string>Ibiza</string>
+	<key>ICN</key>
+	<string>Seoul Inchon</string>
+	<key>IDA</key>
+	<string>Idaho Falls/Fanning</string>
+	<key>IDB</key>
+	<string>Idre</string>
+	<key>IEG</key>
+	<string>Zielona Gora</string>
+	<key>IES</key>
+	<string>Riesa-Gohlis</string>
+	<key>IEV</key>
+	<string>Kiev Zhulyany</string>
+	<key>IFJ</key>
+	<string>Isafjordur</string>
+	<key>IFO</key>
+	<string>Ivano-Frankovsk</string>
+	<key>IGA</key>
+	<string>Inagua</string>
+	<key>IGL</key>
+	<string>Izmir Cigli</string>
+	<key>IIA</key>
+	<string>Inishmaan</string>
+	<key>IKK</key>
+	<string>Kankakee</string>
+	<key>IKT</key>
+	<string>Irkutsk</string>
+	<key>ILF</key>
+	<string>Ilford</string>
+	<key>ILG</key>
+	<string>Wilmington Greater</string>
+	<key>ILH</key>
+	<string>Illesheim</string>
+	<key>ILM</key>
+	<string>Wilmington International</string>
+	<key>ILY</key>
+	<string>Islay</string>
+	<key>ILZ</key>
+	<string>Zilina</string>
+	<key>IND</key>
+	<string>Indianapolis</string>
+	<key>INI</key>
+	<string>Nis</string>
+	<key>INK</key>
+	<string>Wink</string>
+	<key>INN</key>
+	<string>Innsbruck</string>
+	<key>INQ</key>
+	<string>Inisheer</string>
+	<key>INT</key>
+	<string>Winston Salem</string>
+	<key>INV</key>
+	<string>Inverness</string>
+	<key>IOA</key>
+	<string>Ioannina</string>
+	<key>IOM</key>
+	<string>Isle Of Man</string>
+	<key>IOR</key>
+	<string>Inishmore/Kilronan</string>
+	<key>IPT</key>
+	<string>Williamsport</string>
+	<key>IRK</key>
+	<string>Kirksville</string>
+	<key>ISB</key>
+	<string>Islamabad</string>
+	<key>ISE</key>
+	<string>Isparta/S.Demirel</string>
+	<key>ISP</key>
+	<string>Islip Long Island</string>
+	<key>IST</key>
+	<string>Istanbul</string>
+	<key>IUD</key>
+	<string>Al Udeid</string>
+	<key>IVL</key>
+	<string>Ivalo</string>
+	<key>IWE</key>
+	<string>MOU Island Wellserver</string>
+	<key>JAC</key>
+	<string>Jackson Hole</string>
+	<key>JAN</key>
+	<string>Jackson</string>
+	<key>JAV</key>
+	<string>Ilulissat/Jakobshavn</string>
+	<key>JAX</key>
+	<string>Jacksonville FL</string>
+	<key>JBR</key>
+	<string>Jonesboro</string>
+	<key>JCH</key>
+	<string>Qasigiannguit/Christianshaab</string>
+	<key>JED</key>
+	<string>Jeddah</string>
+	<key>JEG</key>
+	<string>Aasiaat/Egedesminde</string>
+	<key>JER</key>
+	<string>Jersey</string>
+	<key>JFK</key>
+	<string>New York John F Kennedy</string>
+	<key>JFR</key>
+	<string>Paamiut/Frederikshaab</string>
+	<key>JGO</key>
+	<string>Qeqertarsuaq/Godhavn</string>
+	<key>JHS</key>
+	<string>Sisimiut/Holsteinsborg</string>
+	<key>JIK</key>
+	<string>Ikaria</string>
+	<key>JJN</key>
+	<string>Jinjiang</string>
+	<key>JJU</key>
+	<string>Qaqortoq/Julianehaab</string>
+	<key>JKG</key>
+	<string>Jönköping</string>
+	<key>JKH</key>
+	<string>Chios</string>
+	<key>JKT</key>
+	<string>Jakarta</string>
+	<key>JLN</key>
+	<string>Joplin</string>
+	<key>JMK</key>
+	<string>Mykonos</string>
+	<key>JMS</key>
+	<string>Jamestown</string>
+	<key>JNB</key>
+	<string>Johannesburg</string>
+	<key>JNN</key>
+	<string>Nanortalik</string>
+	<key>JNX</key>
+	<string>Naxos</string>
+	<key>JOE</key>
+	<string>Joensuu</string>
+	<key>JRK</key>
+	<string>Arsuk</string>
+	<key>JSH</key>
+	<string>Sitia</string>
+	<key>JSI</key>
+	<string>Skiathos</string>
+	<key>JST</key>
+	<string>Johnstown</string>
+	<key>JSU</key>
+	<string>Maniitsoq</string>
+	<key>JSY</key>
+	<string>Syros</string>
+	<key>JTR</key>
+	<string>Santorini</string>
+	<key>JTY</key>
+	<string>Astypalaia</string>
+	<key>JUI</key>
+	<string>Juist</string>
+	<key>JXN</key>
+	<string>Jackson/Reynolds</string>
+	<key>JYV</key>
+	<string>Jyväskylä</string>
+	<key>KAJ</key>
+	<string>Kajaani</string>
+	<key>KAO</key>
+	<string>Kuusamo</string>
+	<key>KAU</key>
+	<string>Kauhava</string>
+	<key>KBL</key>
+	<string>Kabul</string>
+	<key>KBP</key>
+	<string>Kiev Borispol</string>
+	<key>KBV</key>
+	<string>Krabi</string>
+	<key>KCM</key>
+	<string>Kahramanmaras</string>
+	<key>KDL</key>
+	<string>Kardla</string>
+	<key>KDM</key>
+	<string>Kaadedhdhoo</string>
+	<key>KDO</key>
+	<string>Kadhdhoo</string>
+	<key>KEF</key>
+	<string>Reykjavik</string>
+	<key>KEL</key>
+	<string>Kiel</string>
+	<key>KEM</key>
+	<string>Kemi/Tornio</string>
+	<key>KES</key>
+	<string>Kelsey</string>
+	<key>KEV</key>
+	<string>Kuorevesi</string>
+	<key>KGD</key>
+	<string>Kaliningrad</string>
+	<key>KGF</key>
+	<string>Karaganda</string>
+	<key>KGS</key>
+	<string>Kos</string>
+	<key>KHI</key>
+	<string>Karachi</string>
+	<key>KHJ</key>
+	<string>Kauhajoki</string>
+	<key>KID</key>
+	<string>Kristianstad</string>
+	<key>KIN</key>
+	<string>Kingston Norman Manley</string>
+	<key>KIR</key>
+	<string>Kerry Farranfore</string>
+	<key>KIT</key>
+	<string>Kithira</string>
+	<key>KIV</key>
+	<string>Kishinev</string>
+	<key>KIX</key>
+	<string>Osaka Kansai</string>
+	<key>KJK</key>
+	<string>Kortrijk</string>
+	<key>KKC</key>
+	<string>Khon Kaen</string>
+	<key>KKN</key>
+	<string>Kirkenes</string>
+	<key>KKY</key>
+	<string>Kilkenny</string>
+	<key>KLI</key>
+	<string>Kaiserslautern</string>
+	<key>KLJ</key>
+	<string>Klaipeda</string>
+	<key>KLR</key>
+	<string>Kalmar</string>
+	<key>KLU</key>
+	<string>Klagenfurt</string>
+	<key>KLV</key>
+	<string>Karlovy Vary</string>
+	<key>KLX</key>
+	<string>Kalamata</string>
+	<key>KOI</key>
+	<string>Orknøyene</string>
+	<key>KOJ</key>
+	<string>Kagoshima</string>
+	<key>KOK</key>
+	<string>Kokkola/Pietarsaari</string>
+	<key>KRF</key>
+	<string>Kramfors</string>
+	<key>KRH</key>
+	<string>Redhill</string>
+	<key>KRK</key>
+	<string>Krakow</string>
+	<key>KRN</key>
+	<string>Kiruna</string>
+	<key>KRP</key>
+	<string>Karup</string>
+	<key>KRS</key>
+	<string>Kristiansand</string>
+	<key>KSC</key>
+	<string>Kosice/Barca</string>
+	<key>KSD</key>
+	<string>Karlstad</string>
+	<key>KSF</key>
+	<string>Kassel</string>
+	<key>KSJ</key>
+	<string>Kasos</string>
+	<key>KSK</key>
+	<string>Karlskoga</string>
+	<key>KSO</key>
+	<string>Kastoria</string>
+	<key>KSU</key>
+	<string>Kristiansund</string>
+	<key>KSW</key>
+	<string>Kiryat Shmona</string>
+	<key>KSY</key>
+	<string>Kars</string>
+	<key>KTP</key>
+	<string>Kingston Tinson</string>
+	<key>KTQ</key>
+	<string>Kitee</string>
+	<key>KTT</key>
+	<string>Kittila</string>
+	<key>KTW</key>
+	<string>Katowice</string>
+	<key>KUA</key>
+	<string>Kuantan</string>
+	<key>KUL</key>
+	<string>Kuala Lumpur</string>
+	<key>KUN</key>
+	<string>Kaunas</string>
+	<key>KUO</key>
+	<string>Kuopio</string>
+	<key>KUS</key>
+	<string>Kulusuk</string>
+	<key>KVA</key>
+	<string>Kavala</string>
+	<key>KVB</key>
+	<string>Skövde</string>
+	<key>KVX</key>
+	<string>Kirov</string>
+	<key>KWI</key>
+	<string>Kuwait</string>
+	<key>KYA</key>
+	<string>Konya</string>
+	<key>KZG</key>
+	<string>Kitzingen</string>
+	<key>KZI</key>
+	<string>Kozani/Filippos</string>
+	<key>KZS</key>
+	<string>Kastelorizo</string>
+	<key>LAF</key>
+	<string>Lafayette/Purdue U</string>
+	<key>LAI</key>
+	<string>Lannion</string>
+	<key>LAL</key>
+	<string>Lakeland</string>
+	<key>LAN</key>
+	<string>Lansing</string>
+	<key>LAR</key>
+	<string>Laramie</string>
+	<key>LAS</key>
+	<string>Las Vegas Mc Carran</string>
+	<key>LAX</key>
+	<string>Los Angeles</string>
+	<key>LBA</key>
+	<string>Leeds/Bradford</string>
+	<key>LBB</key>
+	<string>Lubbock International</string>
+	<key>LBC</key>
+	<string>Hamburg Lübeck</string>
+	<key>LBD</key>
+	<string>Khudzhand</string>
+	<key>LBE</key>
+	<string>Latrobe/Westmore</string>
+	<key>LBG</key>
+	<string>Le Bourget</string>
+	<key>LBI</key>
+	<string>Albi</string>
+	<key>LBL</key>
+	<string>Liberal</string>
+	<key>LBY</key>
+	<string>La Baule-Escoublac</string>
+	<key>LCA</key>
+	<string>Larnaca</string>
+	<key>LCC</key>
+	<string>Lecce/Lepore</string>
+	<key>LCG</key>
+	<string>La Coruna</string>
+	<key>LCH</key>
+	<string>Lake Charles</string>
+	<key>LCJ</key>
+	<string>Lodz</string>
+	<key>LCK</key>
+	<string>Columbus Rickenbacker</string>
+	<key>LCV</key>
+	<string>Lucca/Tassignano</string>
+	<key>LCY</key>
+	<string>London City</string>
+	<key>LDE</key>
+	<string>Lourdes/Tarbes</string>
+	<key>LDK</key>
+	<string>Lidköping</string>
+	<key>LDV</key>
+	<string>Landivisiau</string>
+	<key>LDY</key>
+	<string>Londonderry</string>
+	<key>LEB</key>
+	<string>Lebanon</string>
+	<key>LED</key>
+	<string>St. Petersburg</string>
+	<key>LEH</key>
+	<string>Le Havre</string>
+	<key>LEI</key>
+	<string>Almeria</string>
+	<key>LEJ</key>
+	<string>Leipzig</string>
+	<key>LEQ</key>
+	<string>Lands End/St.Just</string>
+	<key>LEU</key>
+	<string>Seo De Urgel</string>
+	<key>LEX</key>
+	<string>Lexington</string>
+	<key>LEY</key>
+	<string>Lelystad</string>
+	<key>LFI</key>
+	<string>Hampton/Langley</string>
+	<key>LFT</key>
+	<string>Lafayette</string>
+	<key>LGA</key>
+	<string>New York La Guardia</string>
+	<key>LGB</key>
+	<string>Long Beach</string>
+	<key>LGG</key>
+	<string>Liege</string>
+	<key>LGO</key>
+	<string>Langeoog</string>
+	<key>LGW</key>
+	<string>London Gatwick</string>
+	<key>LHA</key>
+	<string>Lahr</string>
+	<key>LHE</key>
+	<string>Lahore</string>
+	<key>LHR</key>
+	<string>London Heathrow</string>
+	<key>LID</key>
+	<string>Leiden</string>
+	<key>LIG</key>
+	<string>Limoges</string>
+	<key>LIL</key>
+	<string>Lille</string>
+	<key>LIN</key>
+	<string>Milano Linate</string>
+	<key>LIS</key>
+	<string>Lisboa</string>
+	<key>LJU</key>
+	<string>Ljubljana</string>
+	<key>LKL</key>
+	<string>Lakselv</string>
+	<key>LKN</key>
+	<string>Leknes</string>
+	<key>LLA</key>
+	<string>Luleå</string>
+	<key>LME</key>
+	<string>Le Mans-Arnage</string>
+	<key>LMO</key>
+	<string>Lossiemouth</string>
+	<key>LMP</key>
+	<string>Lampedusa</string>
+	<key>LMT</key>
+	<string>Klamath Falls/Kingsley</string>
+	<key>LNK</key>
+	<string>Lincoln</string>
+	<key>LNS</key>
+	<string>Lancaster</string>
+	<key>LNZ</key>
+	<string>Linz</string>
+	<key>LON</key>
+	<string>London</string>
+	<key>LOS</key>
+	<string>Lagos</string>
+	<key>LOU</key>
+	<string>Louisville Bowman Field</string>
+	<key>LOZ</key>
+	<string>London US</string>
+	<key>LPA</key>
+	<string>Las Palmas</string>
+	<key>LPI</key>
+	<string>Linköping</string>
+	<key>LPL</key>
+	<string>Liverpool</string>
+	<key>LPP</key>
+	<string>Lappeenranta</string>
+	<key>LPT</key>
+	<string>Lampang</string>
+	<key>LPX</key>
+	<string>Liepaya</string>
+	<key>LPY</key>
+	<string>Le Puy/Loudes</string>
+	<key>LRA</key>
+	<string>Larisa</string>
+	<key>LRC</key>
+	<string>Laarbruch</string>
+	<key>LRD</key>
+	<string>Laredo</string>
+	<key>LRH</key>
+	<string>La Rochelle</string>
+	<key>LRS</key>
+	<string>Leros</string>
+	<key>LRT</key>
+	<string>Lorient</string>
+	<key>LRU</key>
+	<string>Las Cruces</string>
+	<key>LSE</key>
+	<string>La Crosse</string>
+	<key>LSF</key>
+	<string>Fort Benning/Lawson A</string>
+	<key>LSI</key>
+	<string>Shetland</string>
+	<key>LSV</key>
+	<string>Las Vegas Nellis AFB</string>
+	<key>LTH</key>
+	<string>Lathorp Wells</string>
+	<key>LTN</key>
+	<string>London Luton</string>
+	<key>LTQ</key>
+	<string>Le Touquet/Paris-Plage</string>
+	<key>LTS</key>
+	<string>Altus</string>
+	<key>LUG</key>
+	<string>Lugano</string>
+	<key>LUK</key>
+	<string>Cincinnati</string>
+	<key>LUX</key>
+	<string>Luxembourg</string>
+	<key>LVA</key>
+	<string>Laval-Entrammes</string>
+	<key>LVM</key>
+	<string>Livingston</string>
+	<key>LWM</key>
+	<string>Lawrence</string>
+	<key>LWO</key>
+	<string>Lvov</string>
+	<key>LWR</key>
+	<string>Leeuwarden</string>
+	<key>LWT</key>
+	<string>Lewistown</string>
+	<key>LXR</key>
+	<string>Luxor</string>
+	<key>LXS</key>
+	<string>Lemnos</string>
+	<key>LYC</key>
+	<string>Lycksele</string>
+	<key>LYE</key>
+	<string>Lyneham</string>
+	<key>LYH</key>
+	<string>Lynchburg</string>
+	<key>LYN</key>
+	<string>Lyon Bron</string>
+	<key>LYR</key>
+	<string>Longyearbyen</string>
+	<key>LYS</key>
+	<string>Lyon</string>
+	<key>LYU</key>
+	<string>Ely</string>
+	<key>LYX</key>
+	<string>Lydd</string>
+	<key>MAA</key>
+	<string>Madras</string>
+	<key>MAD</key>
+	<string>Madrid</string>
+	<key>MAF</key>
+	<string>Midland</string>
+	<key>MAH</key>
+	<string>Menorca</string>
+	<key>MAN</key>
+	<string>Manchester</string>
+	<key>MBD</key>
+	<string>Mmabatho</string>
+	<key>MBJ</key>
+	<string>Montego Bay</string>
+	<key>MBS</key>
+	<string>Saginaw</string>
+	<key>MBX</key>
+	<string>Maribor</string>
+	<key>MCC</key>
+	<string>Sacramento Mcclellan AFB</string>
+	<key>MCF</key>
+	<string>Tampa Mac Dill AFB</string>
+	<key>MCI</key>
+	<string>Kansas City</string>
+	<key>MCM</key>
+	<string>Monte Carlo</string>
+	<key>MCN</key>
+	<string>Macon</string>
+	<key>MCO</key>
+	<string>Orlando International</string>
+	<key>MCQ</key>
+	<string>Miskolc</string>
+	<key>MCT</key>
+	<string>Muscat</string>
+	<key>MCU</key>
+	<string>Montlucon-Gueret</string>
+	<key>MDT</key>
+	<string>Harrisburg</string>
+	<key>MDW</key>
+	<string>Chicago Midway</string>
+	<key>MED</key>
+	<string>Medina</string>
+	<key>MEH</key>
+	<string>Mehamn</string>
+	<key>MEI</key>
+	<string>Meridian</string>
+	<key>MEM</key>
+	<string>Memphis</string>
+	<key>MEN</key>
+	<string>Mende-Brenoux</string>
+	<key>MER</key>
+	<string>Atwater Castle AFB</string>
+	<key>MEX</key>
+	<string>Mexico City</string>
+	<key>MFE</key>
+	<string>Mcallen/Miller I</string>
+	<key>MFR</key>
+	<string>Medford</string>
+	<key>MFX</key>
+	<string>Meribel</string>
+	<key>MGE</key>
+	<string>Marietta</string>
+	<key>MGM</key>
+	<string>Montgomery Dannelly</string>
+	<key>MGW</key>
+	<string>Morgantown</string>
+	<key>MHG</key>
+	<string>Mannheim</string>
+	<key>MHH</key>
+	<string>Marsh Harbour, Abaco I.</string>
+	<key>MHK</key>
+	<string>Manhattan</string>
+	<key>MHP</key>
+	<string>Minsk International 1</string>
+	<key>MHQ</key>
+	<string>Mariehamn</string>
+	<key>MHT</key>
+	<string>Manchester US</string>
+	<key>MHZ</key>
+	<string>Mildenhall</string>
+	<key>MIA</key>
+	<string>Miami</string>
+	<key>MIE</key>
+	<string>Muncie</string>
+	<key>MIK</key>
+	<string>Mikkeli</string>
+	<key>MIL</key>
+	<string>Milano</string>
+	<key>MIP</key>
+	<string>Mitzpe-Ramon Airstrip</string>
+	<key>MIR</key>
+	<string>Monastir</string>
+	<key>MJF</key>
+	<string>Mosjøen</string>
+	<key>MJH</key>
+	<string>Madinah/Pr Mohammad Bin Abdula</string>
+	<key>MJT</key>
+	<string>Mytilini</string>
+	<key>MJV</key>
+	<string>Murcia</string>
+	<key>MKA</key>
+	<string>Marianske Lazne</string>
+	<key>MKC</key>
+	<string>Kansas  Downtown</string>
+	<key>MKE</key>
+	<string>Milwaukee</string>
+	<key>MKG</key>
+	<string>Muskegon</string>
+	<key>MKL</key>
+	<string>Jackson/Mckellar</string>
+	<key>MKZ</key>
+	<string>Malacca/Batu Ber</string>
+	<key>MLA</key>
+	<string>Malta</string>
+	<key>MLB</key>
+	<string>Melbourne US</string>
+	<key>MLC</key>
+	<string>Mc Alester</string>
+	<key>MLE</key>
+	<string>Male</string>
+	<key>MLH</key>
+	<string>Mulhouse</string>
+	<key>MLI</key>
+	<string>Moline/Quad-Cit</string>
+	<key>MLN</key>
+	<string>Melilla</string>
+	<key>MLO</key>
+	<string>Milos</string>
+	<key>MLU</key>
+	<string>Monroe</string>
+	<key>MLX</key>
+	<string>Malatya/Erhac</string>
+	<key>MME</key>
+	<string>Teesside</string>
+	<key>MMK</key>
+	<string>Murmansk</string>
+	<key>MMU</key>
+	<string>Morristown</string>
+	<key>MMX</key>
+	<string>Malmö</string>
+	<key>MNL</key>
+	<string>Manila</string>
+	<key>MOD</key>
+	<string>Modesto</string>
+	<key>MOL</key>
+	<string>Molde</string>
+	<key>MON</key>
+	<string>Mount Cook</string>
+	<key>MOT</key>
+	<string>Minot</string>
+	<key>MOW</key>
+	<string>Moskva</string>
+	<key>MPL</key>
+	<string>Montpellier</string>
+	<key>MQC</key>
+	<string>Miquelon</string>
+	<key>MQN</key>
+	<string>Mo i Rana</string>
+	<key>MQT</key>
+	<string>Marquette</string>
+	<key>MQY</key>
+	<string>Smyrna</string>
+	<key>MRB</key>
+	<string>Martinsburg</string>
+	<key>MRS</key>
+	<string>Marseille</string>
+	<key>MRY</key>
+	<string>Monterey</string>
+	<key>MSE</key>
+	<string>Manston</string>
+	<key>MSN</key>
+	<string>Madison</string>
+	<key>MSO</key>
+	<string>Missoula</string>
+	<key>MSP</key>
+	<string>Minneapolis</string>
+	<key>MSQ</key>
+	<string>Minsk International 2</string>
+	<key>MSR</key>
+	<string>Mus</string>
+	<key>MSS</key>
+	<string>Massena/Richards</string>
+	<key>MST</key>
+	<string>Maastricht</string>
+	<key>MSY</key>
+	<string>New Orleans</string>
+	<key>MTN</key>
+	<string>Baltimore/Glenn L Martin</string>
+	<key>MUC</key>
+	<string>München</string>
+	<key>MUH</key>
+	<string>Mersa</string>
+	<key>MUI</key>
+	<string>Fort Indiantown/Muir AAF</string>
+	<key>MUO</key>
+	<string>Mountain Home AFB</string>
+	<key>MVQ</key>
+	<string>Mogilev</string>
+	<key>MVV</key>
+	<string>Megeve</string>
+	<key>MXF</key>
+	<string>Montgomery Maxwell</string>
+	<key>MXN</key>
+	<string>Morlaix-Ploujean</string>
+	<key>MXP</key>
+	<string>Milano Malpensa</string>
+	<key>MXX</key>
+	<string>Mora</string>
+	<key>MYG</key>
+	<string>Mayaguana</string>
+	<key>MYR</key>
+	<string>Myrtle Beach</string>
+	<key>MYV</key>
+	<string>Marysville/Yuba Cou</string>
+	<key>NAP</key>
+	<string>Napoli</string>
+	<key>NAQ</key>
+	<string>Qaanaaq</string>
+	<key>NAS</key>
+	<string>Nassau</string>
+	<key>NAW</key>
+	<string>Narathiwat</string>
+	<key>NBE</key>
+	<string>Enfidha</string>
+	<key>NBG</key>
+	<string>New Orleans Alvin Callendar</string>
+	<key>NCE</key>
+	<string>Nice</string>
+	<key>NCL</key>
+	<string>Newcastle</string>
+	<key>NCY</key>
+	<string>Annecy</string>
+	<key>NDB</key>
+	<string>Nouadhibou</string>
+	<key>NDJ</key>
+	<string>Ndjamena</string>
+	<key>NDR</key>
+	<string>Nador</string>
+	<key>NDY</key>
+	<string>Sanday</string>
+	<key>NDZ</key>
+	<string>Nordholz-Spieka</string>
+	<key>NEG</key>
+	<string>Negril</string>
+	<key>NEL</key>
+	<string>Lakehurst/Naec</string>
+	<key>NET</key>
+	<string>New Bight, Cat I.</string>
+	<key>NEW</key>
+	<string>New Orleans Lakefront</string>
+	<key>NFL</key>
+	<string>Fallon/NAS</string>
+	<key>NGP</key>
+	<string>Corpus Christi NAS</string>
+	<key>NGS</key>
+	<string>Nagasaki</string>
+	<key>NGU</key>
+	<string>Norfolk/NAS Cham</string>
+	<key>NHK</key>
+	<string>Patuxent River/NAS</string>
+	<key>NHT</key>
+	<string>Northolt</string>
+	<key>NHZ</key>
+	<string>Brunswick NAS</string>
+	<key>NIC</key>
+	<string>Nicosia</string>
+	<key>NIP</key>
+	<string>Jacksonville NAS</string>
+	<key>NIT</key>
+	<string>Niort/Souche</string>
+	<key>NKC</key>
+	<string>Nouakchott</string>
+	<key>NKT</key>
+	<string>Cherry Point</string>
+	<key>NKX</key>
+	<string>San Diego Miramar</string>
+	<key>NNA</key>
+	<string>Kenitra</string>
+	<key>NNG</key>
+	<string>Nord-Norge</string>
+	<key>NNR</key>
+	<string>Connemara</string>
+	<key>NOC</key>
+	<string>Connaught</string>
+	<key>NOD</key>
+	<string>Norden-Norddeich</string>
+	<key>NOR</key>
+	<string>Nordfjordur</string>
+	<key>NPA</key>
+	<string>Pensacola NAS</string>
+	<key>NQI</key>
+	<string>Kingsville/NAS</string>
+	<key>NQX</key>
+	<string>Key West/NAS</string>
+	<key>NQY</key>
+	<string>Newquay</string>
+	<key>NRD</key>
+	<string>Norderney</string>
+	<key>NRK</key>
+	<string>Norrköping</string>
+	<key>NRL</key>
+	<string>North Ronaldsway</string>
+	<key>NRN</key>
+	<string>Düsseldorf Weeze</string>
+	<key>NRT</key>
+	<string>Tokyo Narita</string>
+	<key>NSY</key>
+	<string>Sigonella</string>
+	<key>NTB</key>
+	<string>Notodden</string>
+	<key>NTE</key>
+	<string>Nantes</string>
+	<key>NUE</key>
+	<string>Nürnberg</string>
+	<key>NUK</key>
+	<string>Kristin</string>
+	<key>NUQ</key>
+	<string>Mountain View</string>
+	<key>NUT</key>
+	<string>Nutuve</string>
+	<key>NVK</key>
+	<string>Narvik</string>
+	<key>NVS</key>
+	<string>Nevers/Fourchambault</string>
+	<key>NWI</key>
+	<string>Norwich</string>
+	<key>NXX</key>
+	<string>Willow Grove</string>
+	<key>NYO</key>
+	<string>Stockholm Skavsta </string>
+	<key>NZC</key>
+	<string>Jacksonville Cecil Field</string>
+	<key>NZY</key>
+	<string>San Diego North Island</string>
+	<key>OAK</key>
+	<string>Oakland</string>
+	<key>OBF</key>
+	<string>Oberpfaffenhofen</string>
+	<key>OBL</key>
+	<string>Zoersel</string>
+	<key>OBS</key>
+	<string>Aubenas-Vals-Lanas</string>
+	<key>OBY</key>
+	<string>Ittoqqortoormiit/Scoresbysund</string>
+	<key>OCJ</key>
+	<string>Ocho Rios/Boscobel</string>
+	<key>ODB</key>
+	<string>Ciudad Real/Almagro</string>
+	<key>ODE</key>
+	<string>Odense</string>
+	<key>ODH</key>
+	<string>Odiham</string>
+	<key>ODS</key>
+	<string>Odessa</string>
+	<key>OER</key>
+	<string>Örnsköldsvik</string>
+	<key>OGD</key>
+	<string>Ogden</string>
+	<key>OHR</key>
+	<string>Wyk Auf Fohr</string>
+	<key>OKA</key>
+	<string>Okinawa/Kadena A</string>
+	<key>OKC</key>
+	<string>Oklahoma City</string>
+	<key>OLA</key>
+	<string>Ørland</string>
+	<key>OLB</key>
+	<string>Olbia</string>
+	<key>OLD</key>
+	<string>Old Town</string>
+	<key>OLM</key>
+	<string>Olympia</string>
+	<key>OLO</key>
+	<string>Olomouc</string>
+	<key>OLU</key>
+	<string>Columbus Municipal NE</string>
+	<key>OMA</key>
+	<string>Omaha</string>
+	<key>OMO</key>
+	<string>Mostar</string>
+	<key>OMR</key>
+	<string>Oradea</string>
+	<key>OMS</key>
+	<string>Omsk</string>
+	<key>ONT</key>
+	<string>Ontario</string>
+	<key>OPA</key>
+	<string>Kopasker</string>
+	<key>OPO</key>
+	<string>Porto</string>
+	<key>ORA</key>
+	<string>Al Asud</string>
+	<key>ORB</key>
+	<string>Örebro</string>
+	<key>ORD</key>
+	<string>Chicago OHare</string>
+	<key>ORE</key>
+	<string>Orleans</string>
+	<key>ORF</key>
+	<string>Norfolk</string>
+	<key>ORH</key>
+	<string>Worcester</string>
+	<key>ORK</key>
+	<string>Cork</string>
+	<key>ORM</key>
+	<string>Northampton/Sywell</string>
+	<key>ORY</key>
+	<string>Paris Orly</string>
+	<key>OSA</key>
+	<string>Osaka</string>
+	<key>OSD</key>
+	<string>Östersund</string>
+	<key>OSH</key>
+	<string>Oshkosh</string>
+	<key>OSI</key>
+	<string>Osijek</string>
+	<key>OSK</key>
+	<string>Oskarshamn</string>
+	<key>OSL</key>
+	<string>Oslo</string>
+	<key>OSP</key>
+	<string>Redzikow</string>
+	<key>OSR</key>
+	<string>Ostrava</string>
+	<key>OST</key>
+	<string>Oostende</string>
+	<key>OSU</key>
+	<string>Columbus Ohio State University</string>
+	<key>OSY</key>
+	<string>Namsos</string>
+	<key>OSZ</key>
+	<string>Koszalin</string>
+	<key>OTH</key>
+	<string>North Bend</string>
+	<key>OTP</key>
+	<string>Bucuresti Otopeni</string>
+	<key>OUL</key>
+	<string>Oulu</string>
+	<key>OVB</key>
+	<string>Novosibirsk </string>
+	<key>OVD</key>
+	<string>Asturias</string>
+	<key>OWB</key>
+	<string>Owensboro-Davies County</string>
+	<key>OXF</key>
+	<string>Oxford/Kidlington</string>
+	<key>OZZ</key>
+	<string>Ouarzazate</string>
+	<key>PAD</key>
+	<string>Paderborn-Lippstadt</string>
+	<key>PAE</key>
+	<string>Everett Snohomish County</string>
+	<key>PAH</key>
+	<string>Paducah/Barkley</string>
+	<key>PAM</key>
+	<string>Panama City Tyndall (US)</string>
+	<key>PAR</key>
+	<string>Paris</string>
+	<key>PAS</key>
+	<string>Paros</string>
+	<key>PAU</key>
+	<string>Pau/Pyrenees</string>
+	<key>PBG</key>
+	<string>Plattsburgh AFB</string>
+	<key>PCN</key>
+	<string>Picton/Koromiko</string>
+	<key>PDG</key>
+	<string>Padang/Tabing</string>
+	<key>PDK</key>
+	<string>Atlanta/De Kalb</string>
+	<key>PDL</key>
+	<string>Ponta Delgada Sao Miguel</string>
+	<key>PDV</key>
+	<string>Plovdiv</string>
+	<key>PDX</key>
+	<string>Portland</string>
+	<key>PEF</key>
+	<string>Peenemunde</string>
+	<key>PEG</key>
+	<string>Perugia</string>
+	<key>PEK</key>
+	<string>Beijing Capital</string>
+	<key>PEN</key>
+	<string>Penang</string>
+	<key>PFJ</key>
+	<string>Patreksfjordur</string>
+	<key>PFN</key>
+	<string>Panama City Bay County</string>
+	<key>PFO</key>
+	<string>Paphos</string>
+	<key>PGF</key>
+	<string>Perpignan</string>
+	<key>PHF</key>
+	<string>Newport News</string>
+	<key>PHL</key>
+	<string>Philadelphia</string>
+	<key>PHX</key>
+	<string>Phoenix</string>
+	<key>PIA</key>
+	<string>Peoria</string>
+	<key>PIE</key>
+	<string>St Petersburg-Clearwater (US)</string>
+	<key>PIH</key>
+	<string>Pocatello</string>
+	<key>PIK</key>
+	<string>Glasgow Prestwick</string>
+	<key>PIR</key>
+	<string>Pierre</string>
+	<key>PIS</key>
+	<string>Poitiers</string>
+	<key>PIT</key>
+	<string>Pittsburgh</string>
+	<key>PIW</key>
+	<string>Pikwitonei</string>
+	<key>PIX</key>
+	<string>Azorene Pico</string>
+	<key>PKB</key>
+	<string>Parkeresburg/Wood County-GRW</string>
+	<key>PKH</key>
+	<string>Porto Kheli/Alexion</string>
+	<key>PLB</key>
+	<string>Plattsburgh Clinton</string>
+	<key>PLH</key>
+	<string>Plymouth</string>
+	<key>PLN</key>
+	<string>Pellston</string>
+	<key>PLQ</key>
+	<string>Palanga</string>
+	<key>PLU</key>
+	<string>Belo Horizonte Pampulha</string>
+	<key>PLV</key>
+	<string>Poltava</string>
+	<key>PLZ</key>
+	<string>Port Elizabeth</string>
+	<key>PMD</key>
+	<string>Palmdale/Air Forc</string>
+	<key>PME</key>
+	<string>Portsmouth (UK)</string>
+	<key>PMF</key>
+	<string>Parma</string>
+	<key>PMI</key>
+	<string>Palma Mallorca</string>
+	<key>PMO</key>
+	<string>Palermo</string>
+	<key>PMV</key>
+	<string>Isla de Margarita</string>
+	<key>PNA</key>
+	<string>Pamplona</string>
+	<key>PNH</key>
+	<string>Phnom Penh</string>
+	<key>PNL</key>
+	<string>Pantelleria</string>
+	<key>PNR</key>
+	<string>Pointe Noire</string>
+	<key>PNS</key>
+	<string>Pensacola Regional</string>
+	<key>PNV</key>
+	<string>Panevezys</string>
+	<key>POB</key>
+	<string>Fayetteville Pope AFB</string>
+	<key>POE</key>
+	<string>Fort Polk</string>
+	<key>POR</key>
+	<string>Pori</string>
+	<key>POT</key>
+	<string>Port Antonio</string>
+	<key>POU</key>
+	<string>Poughkeepsie</string>
+	<key>POV</key>
+	<string>Presov</string>
+	<key>POW</key>
+	<string>Portoroz</string>
+	<key>POX</key>
+	<string>Paris Cergy Pontoise</string>
+	<key>POZ</key>
+	<string>Poznan</string>
+	<key>PPW</key>
+	<string>Papa Westray</string>
+	<key>PRB</key>
+	<string>Paso Robles</string>
+	<key>PRC</key>
+	<string>Prescott</string>
+	<key>PRG</key>
+	<string>Praha</string>
+	<key>PRJ</key>
+	<string>Capri</string>
+	<key>PRM</key>
+	<string>Portimao</string>
+	<key>PRN</key>
+	<string>Pristina</string>
+	<key>PRP</key>
+	<string>Propriano</string>
+	<key>PRV</key>
+	<string>Prerov</string>
+	<key>PRX</key>
+	<string>Paris Cox Field (US)</string>
+	<key>PRY</key>
+	<string>Pretoria</string>
+	<key>PSA</key>
+	<string>Pisa</string>
+	<key>PSD</key>
+	<string>Port Said</string>
+	<key>PSH</key>
+	<string>St Peter</string>
+	<key>PSM</key>
+	<string>Portsmouth (US)</string>
+	<key>PSP</key>
+	<string>Palm Springs</string>
+	<key>PSR</key>
+	<string>Pescara</string>
+	<key>PTK</key>
+	<string>Pontiac</string>
+	<key>PUB</key>
+	<string>Pueblo</string>
+	<key>PUF</key>
+	<string>Pau</string>
+	<key>PUY</key>
+	<string>Pula</string>
+	<key>PVD</key>
+	<string>Providence</string>
+	<key>PVK</key>
+	<string>Preveza/Lefkas</string>
+	<key>PWM</key>
+	<string>Portland</string>
+	<key>PWT</key>
+	<string>Bremerton</string>
+	<key>PXO</key>
+	<string>Porto Santo</string>
+	<key>PXY</key>
+	<string>Roma Pratica di Mare Mil.</string>
+	<key>PZE</key>
+	<string>Penzance Heliport</string>
+	<key>PZY</key>
+	<string>Piestany</string>
+	<key>QAL</key>
+	<string>Alessandria</string>
+	<key>QAM</key>
+	<string>Amiens</string>
+	<key>QCM</key>
+	<string>Como/Idroscalo</string>
+	<key>QCY</key>
+	<string>Coningsby</string>
+	<key>QDM</key>
+	<string>Bisha</string>
+	<key>QEF</key>
+	<string>Egelsbach</string>
+	<key>QEW</key>
+	<string>Leicester</string>
+	<key>QFB</key>
+	<string>Freiburg Im Breisgau</string>
+	<key>QFJ</key>
+	<string>Alluitsup Paa/Sydproven</string>
+	<key>QFK</key>
+	<string>Selje</string>
+	<key>QFN</key>
+	<string>Narsaq Kujalleq/Frederiksdal</string>
+	<key>QFO</key>
+	<string>Duxford</string>
+	<key>QFQ</key>
+	<string>Måløy</string>
+	<key>QFR</key>
+	<string>Frosinone</string>
+	<key>QGO</key>
+	<string>Gorizia</string>
+	<key>QGY</key>
+	<string>Gyor</string>
+	<key>QHA</key>
+	<string>Hasselt</string>
+	<key>QIE</key>
+	<string>Istres-Le Tube</string>
+	<key>QIF</key>
+	<string>Isleworth</string>
+	<key>QIZ</key>
+	<string>Bizerte</string>
+	<key>QJL</key>
+	<string>Kjøllefjord</string>
+	<key>QJS</key>
+	<string>Saeby/Ottestrup</string>
+	<key>QKF</key>
+	<string>Krefeld-Egelsberg</string>
+	<key>QKK</key>
+	<string>Karasjok</string>
+	<key>QKQ</key>
+	<string>Anklam</string>
+	<key>QKX</key>
+	<string>Kautokeino</string>
+	<key>QKZ</key>
+	<string>Konstanz</string>
+	<key>QLA</key>
+	<string>Lasham</string>
+	<key>QLF</key>
+	<string>Lahti</string>
+	<key>QLG</key>
+	<string>Landshut</string>
+	<key>QLR</key>
+	<string>Leiria</string>
+	<key>QLS</key>
+	<string>Langenthal</string>
+	<key>QLT</key>
+	<string>Latina</string>
+	<key>QMZ</key>
+	<string>Mainz/Finthen</string>
+	<key>QNC</key>
+	<string>Neuchatel</string>
+	<key>QNJ</key>
+	<string>Annemasse</string>
+	<key>QNM</key>
+	<string>Namur/Suarlee</string>
+	<key>QNX</key>
+	<string>Macon-Charnay</string>
+	<key>QOB</key>
+	<string>Ansbach-Petersdorf</string>
+	<key>QOK</key>
+	<string>Øksfjord</string>
+	<key>QOS</key>
+	<string>Oristano Fenosu</string>
+	<key>QPA</key>
+	<string>Padova</string>
+	<key>QPB</key>
+	<string>Campobasso</string>
+	<key>QPJ</key>
+	<string>Pecs</string>
+	<key>QPO</key>
+	<string>Potenza</string>
+	<key>QPZ</key>
+	<string>Piacenza/S.Damiano</string>
+	<key>QQQ</key>
+	<string>Unknown</string>
+	<key>QRT</key>
+	<string>Rieti</string>
+	<key>QRV</key>
+	<string>Arras/Roclincourt</string>
+	<key>QRY</key>
+	<string>Ikerasassuaq/Prins Chr. Sund</string>
+	<key>QSA</key>
+	<string>Sabadell</string>
+	<key>QSR</key>
+	<string>Salerno/Pontecagnano</string>
+	<key>QST</key>
+	<string>Izmit Topel</string>
+	<key>QTJ</key>
+	<string>Chartres-Champhol</string>
+	<key>QTP</key>
+	<string>Tana</string>
+	<key>QUL</key>
+	<string>Ulm</string>
+	<key>QUY</key>
+	<string>Wyton</string>
+	<key>QVA</key>
+	<string>Varese/Venegono</string>
+	<key>QVD</key>
+	<string>Salo</string>
+	<key>QVE</key>
+	<string>Forssa</string>
+	<key>QVF</key>
+	<string>Karkkila</string>
+	<key>QVK</key>
+	<string>Valkeakoski</string>
+	<key>QVM</key>
+	<string>Hameenlinna</string>
+	<key>QVO</key>
+	<string>Kjøllefjord</string>
+	<key>QVQ</key>
+	<string>Verden-Scharnhorst</string>
+	<key>QVS</key>
+	<string>Tervakoski</string>
+	<key>QVT</key>
+	<string>Riihimäki</string>
+	<key>QVV</key>
+	<string>Heinola</string>
+	<key>QVW</key>
+	<string>Kotka</string>
+	<key>QVY</key>
+	<string>Kouvola</string>
+	<key>QVZ</key>
+	<string>Hamina</string>
+	<key>QWQ</key>
+	<string>Sheffield City</string>
+	<key>QWR</key>
+	<string>Donauworth/Genderkingen</string>
+	<key>QXB</key>
+	<string>Aix-En-Provence </string>
+	<key>QXH</key>
+	<string>Schonhagen</string>
+	<key>QXI</key>
+	<string>Loviisa</string>
+	<key>QXJ</key>
+	<string>Porvoo</string>
+	<key>QYC</key>
+	<string>Drachten</string>
+	<key>QYI</key>
+	<string>Hilversum</string>
+	<key>QYR</key>
+	<string>Troyes</string>
+	<key>QYV</key>
+	<string>Deventer/Teuge</string>
+	<key>QZB</key>
+	<string>Zermatt</string>
+	<key>QZD</key>
+	<string>Szeged</string>
+	<key>QZJ</key>
+	<string>Loimaa</string>
+	<key>QZK</key>
+	<string>Mantsala</string>
+	<key>QZO</key>
+	<string>Arezzo</string>
+	<key>QZS</key>
+	<string>Sørøya</string>
+	<key>QZU</key>
+	<string>Rauma</string>
+	<key>RAE</key>
+	<string>Al-Baha/Al-Aqiq</string>
+	<key>RAK</key>
+	<string>Marrakech</string>
+	<key>RAL</key>
+	<string>Regalia</string>
+	<key>RAN</key>
+	<string>Ravenna</string>
+	<key>RAP</key>
+	<string>Rapid City Regional</string>
+	<key>RBA</key>
+	<string>Rabat</string>
+	<key>RBL</key>
+	<string>Red Bluff</string>
+	<key>RBM</key>
+	<string>Straubing-Wallmuhle</string>
+	<key>RCA</key>
+	<string>Rapid City¨Ellsworth AFB</string>
+	<key>RCO</key>
+	<string>Rochefort</string>
+	<key>RCS</key>
+	<string>Rochester (US)</string>
+	<key>RDD</key>
+	<string>Redding</string>
+	<key>RDG</key>
+	<string>Reading</string>
+	<key>RDM</key>
+	<string>Redmond/Roberts</string>
+	<key>RDU</key>
+	<string>Raleigh/Durham</string>
+	<key>RDZ</key>
+	<string>Rodez/Marcillac</string>
+	<key>REB</key>
+	<string>Rechlin-Larz</string>
+	<key>REE</key>
+	<string>Lubbock Reese AFB</string>
+	<key>REG</key>
+	<string>Reggio Calabria</string>
+	<key>RET</key>
+	<string>Røst</string>
+	<key>REU</key>
+	<string>Reus</string>
+	<key>RFN</key>
+	<string>Raufarhofn</string>
+	<key>RHE</key>
+	<string>Reims-Champagne</string>
+	<key>RHI</key>
+	<string>Rhinelander/Oneida C</string>
+	<key>RHO</key>
+	<string>Rhodos</string>
+	<key>RIC</key>
+	<string>Richmond</string>
+	<key>RIG</key>
+	<string>Rio Grande</string>
+	<key>RIO</key>
+	<string>Rio De Janeiro/Galeao</string>
+	<key>RIV</key>
+	<string>Riverside/March AF</string>
+	<key>RIX</key>
+	<string>Riga</string>
+	<key>RJK</key>
+	<string>Rijeka</string>
+	<key>RKE</key>
+	<string>København Roskilde</string>
+	<key>RKV</key>
+	<string>Reykjavik</string>
+	<key>RLG</key>
+	<string>Rostock-Laage</string>
+	<key>RME</key>
+	<string>Rome Griffiss (US)</string>
+	<key>RMF</key>
+	<string>Marsa Alam</string>
+	<key>RMG</key>
+	<string>Rome Richard B. Russell (US)</string>
+	<key>RMI</key>
+	<string>Rimini</string>
+	<key>RMS</key>
+	<string>Ramstein</string>
+	<key>RNB</key>
+	<string>Rønneby</string>
+	<key>RNE</key>
+	<string>Roanne-Renaison</string>
+	<key>RNN</key>
+	<string>Bornholm</string>
+	<key>RNO</key>
+	<string>Reno</string>
+	<key>RNS</key>
+	<string>Rennes</string>
+	<key>RNT</key>
+	<string>Renton</string>
+	<key>ROA</key>
+	<string>Roanoke</string>
+	<key>ROC</key>
+	<string>Rochester (UK)</string>
+	<key>ROM</key>
+	<string>Roma</string>
+	<key>ROU</key>
+	<string>Rousse</string>
+	<key>ROW</key>
+	<string>Roswell</string>
+	<key>RPN</key>
+	<string>Rosh Pina</string>
+	<key>RRS</key>
+	<string>Røros</string>
+	<key>RSD</key>
+	<string>Rock Sound/Intl,  Eleuthera I.</string>
+	<key>RSW</key>
+	<string>Fort Myers/Southwes</string>
+	<key>RTM</key>
+	<string>Rotterdam</string>
+	<key>RUH</key>
+	<string>Riyadh</string>
+	<key>RUT</key>
+	<string>Rutland</string>
+	<key>RVK</key>
+	<string>Rørvik</string>
+	<key>RVN</key>
+	<string>Rovaniemi</string>
+	<key>RWI</key>
+	<string>Rocky Mount</string>
+	<key>RYG</key>
+	<string>Rygge</string>
+	<key>RZE</key>
+	<string>Jasionka</string>
+	<key>SAC</key>
+	<string>Sacramento Executive</string>
+	<key>SAK</key>
+	<string>Saudarkrokur</string>
+	<key>SAN</key>
+	<string>San Diego Lindbergh</string>
+	<key>SAT</key>
+	<string>San Antonio</string>
+	<key>SAV</key>
+	<string>Savannah Hilton Head</string>
+	<key>SAW</key>
+	<string>Istanbul Sabiha Gökcen</string>
+	<key>SAY</key>
+	<string>Siena</string>
+	<key>SBA</key>
+	<string>Santa Barbara</string>
+	<key>SBD</key>
+	<string>San Bernardino Norton AFB</string>
+	<key>SBN</key>
+	<string>South Bend</string>
+	<key>SBP</key>
+	<string>San Luis Obispo/</string>
+	<key>SBS</key>
+	<string>Steamboat Springs</string>
+	<key>SBY</key>
+	<string>Salisbury-Ocean City</string>
+	<key>SBZ</key>
+	<string>Sibiu</string>
+	<key>SCH</key>
+	<string>Schenectady</string>
+	<key>SCK</key>
+	<string>Stockton</string>
+	<key>SCN</key>
+	<string>Saarbrucken</string>
+	<key>SCO</key>
+	<string>Aktau</string>
+	<key>SCQ</key>
+	<string>Santiago de Compostela</string>
+	<key>SCV</key>
+	<string>Suceava/Salcea</string>
+	<key>SDF</key>
+	<string>Louisville International</string>
+	<key>SDL</key>
+	<string>Sundsvall</string>
+	<key>SDM</key>
+	<string>San Diego Brown Field</string>
+	<key>SDN</key>
+	<string>Sandane</string>
+	<key>SDU</key>
+	<string>Rio De Janeiro Santos Dumont</string>
+	<key>SDV</key>
+	<string>Tel Aviv Yafo Sde Dov</string>
+	<key>SEA</key>
+	<string>Seattle</string>
+	<key>SEL</key>
+	<string>Seoul</string>
+	<key>SEN</key>
+	<string>Southend</string>
+	<key>SEX</key>
+	<string>Sembach Hel</string>
+	<key>SFB</key>
+	<string>Orlando Sanford</string>
+	<key>SFF</key>
+	<string>Spokane Felts Field</string>
+	<key>SFI</key>
+	<string>Safi</string>
+	<key>SFJ</key>
+	<string>Kangerlussuaq Søndre Strømfj</string>
+	<key>SFO</key>
+	<string>San Francisco</string>
+	<key>SFQ</key>
+	<string>Sanliurfa</string>
+	<key>SFT</key>
+	<string>Skellefteå</string>
+	<key>SGC</key>
+	<string>Surgut</string>
+	<key>SGD</key>
+	<string>Sønderborg</string>
+	<key>SGE</key>
+	<string>Siegen</string>
+	<key>SGF</key>
+	<string>Springfield Branson</string>
+	<key>SGH</key>
+	<string>Springfield</string>
+	<key>SHA</key>
+	<string>Shanghai Hongqiao</string>
+	<key>SHH</key>
+	<string>Shismaref</string>
+	<key>SHJ</key>
+	<string>Sharjah</string>
+	<key>SHR</key>
+	<string>Sheridan</string>
+	<key>SHV</key>
+	<string>Shreveport</string>
+	<key>SHW</key>
+	<string>Sharurah</string>
+	<key>SIC</key>
+	<string>Sinop</string>
+	<key>SID</key>
+	<string>Sal/Kapp Verde</string>
+	<key>SIE</key>
+	<string>Sines</string>
+	<key>SII</key>
+	<string>Sidi Ifni</string>
+	<key>SIJ</key>
+	<string>Siglufjordur</string>
+	<key>SIN</key>
+	<string>Singapore Changi</string>
+	<key>SIR</key>
+	<string>Sion</string>
+	<key>SJC</key>
+	<string>San Jose</string>
+	<key>SJJ</key>
+	<string>Sarajevo</string>
+	<key>SJY</key>
+	<string>Seinajoki</string>
+	<key>SJZ</key>
+	<string>Azorene Sao Jorge</string>
+	<key>SKA</key>
+	<string>Spokane Fairchild</string>
+	<key>SKD</key>
+	<string>Samarkand</string>
+	<key>SKE</key>
+	<string>Skien</string>
+	<key>SKF</key>
+	<string>San Antonio Kelly AFB</string>
+	<key>SKG</key>
+	<string>Thessaloniki</string>
+	<key>SKN</key>
+	<string>Stokmarknes</string>
+	<key>SKP</key>
+	<string>Skopje</string>
+	<key>SKS</key>
+	<string>Skrydstrup</string>
+	<key>SKU</key>
+	<string>Skiros</string>
+	<key>SKV</key>
+	<string>Santa Katarina</string>
+	<key>SLC</key>
+	<string>Salt Lake City</string>
+	<key>SLD</key>
+	<string>Sliac</string>
+	<key>SLE</key>
+	<string>Salem/Mcnary F</string>
+	<key>SLF</key>
+	<string>Sharurah</string>
+	<key>SLK</key>
+	<string>Saranac Lake</string>
+	<key>SLM</key>
+	<string>Salamanca</string>
+	<key>SLN</key>
+	<string>Salina</string>
+	<key>SMA</key>
+	<string>Azorene Santa Maria</string>
+	<key>SMF</key>
+	<string>Sacramento International</string>
+	<key>SMI</key>
+	<string>Samos</string>
+	<key>SML</key>
+	<string>Stella Maris</string>
+	<key>SMV</key>
+	<string>St Moritz</string>
+	<key>SMW</key>
+	<string>Smara</string>
+	<key>SMX</key>
+	<string>Santa Maria</string>
+	<key>SNA</key>
+	<string>Santa Ana</string>
+	<key>SNG</key>
+	<string>Sør-Norge</string>
+	<key>SNN</key>
+	<string>Shannon</string>
+	<key>SNS</key>
+	<string>Salinas</string>
+	<key>SOB</key>
+	<string>Saarmelleek</string>
+	<key>SOF</key>
+	<string>Sofia</string>
+	<key>SOG</key>
+	<string>Sogndal</string>
+	<key>SOJ</key>
+	<string>Sørkjosen</string>
+	<key>SOO</key>
+	<string>Söderhamn</string>
+	<key>SOT</key>
+	<string>Sodankyla</string>
+	<key>SOU</key>
+	<string>Southampton</string>
+	<key>SOY</key>
+	<string>Stronsay</string>
+	<key>SOZ</key>
+	<string>Solenzara</string>
+	<key>SPA</key>
+	<string>Spartanburg</string>
+	<key>SPI</key>
+	<string>Springfield Capital</string>
+	<key>SPJ</key>
+	<string>Sparti</string>
+	<key>SPK</key>
+	<string>Sapporo</string>
+	<key>SPL</key>
+	<string>Amsterdam</string>
+	<key>SPM</key>
+	<string>Spangdahlem</string>
+	<key>SPS</key>
+	<string>Wichita Falls</string>
+	<key>SPU</key>
+	<string>Split</string>
+	<key>SQQ</key>
+	<string>Siauliai</string>
+	<key>SQW</key>
+	<string>Skive</string>
+	<key>SRP</key>
+	<string>Stord</string>
+	<key>SRQ</key>
+	<string>Sarasota/Bradenton</string>
+	<key>SSC</key>
+	<string>Sumter/Shaw AFB</string>
+	<key>SSH</key>
+	<string>Sharm el Sheik</string>
+	<key>SSI</key>
+	<string>Brunswick Mckinnon</string>
+	<key>SSJ</key>
+	<string>Sandnessjøen</string>
+	<key>SSX</key>
+	<string>Samsun</string>
+	<key>STA</key>
+	<string>Stauning</string>
+	<key>STJ</key>
+	<string>St Joseph</string>
+	<key>STN</key>
+	<string>London Stansted</string>
+	<key>STO</key>
+	<string>Stockholm/Swedish Air Force</string>
+	<key>STP</key>
+	<string>St Paul/Downtown</string>
+	<key>STR</key>
+	<string>Stuttgart</string>
+	<key>SUB</key>
+	<string>Surabaya</string>
+	<key>SUF</key>
+	<string>Lamezia/Terme</string>
+	<key>SUJ</key>
+	<string>Satu Mare</string>
+	<key>SUU</key>
+	<string>Fairfield/Travis A</string>
+	<key>SUX</key>
+	<string>Sioux City</string>
+	<key>SVG</key>
+	<string>Stavanger</string>
+	<key>SVJ</key>
+	<string>Svolvær</string>
+	<key>SVL</key>
+	<string>Savonlinna</string>
+	<key>SVN</key>
+	<string>Savannah Hunter AAF</string>
+	<key>SVO</key>
+	<string>Moskva Sheremetyevo</string>
+	<key>SVQ</key>
+	<string>Sevilla</string>
+	<key>SWF</key>
+	<string>Newburgh/Stewart</string>
+	<key>SWO</key>
+	<string>Stillwater</string>
+	<key>SWS</key>
+	<string>Swansea</string>
+	<key>SXB</key>
+	<string>Strasbourg Entzheim</string>
+	<key>SXF</key>
+	<string>Berlin Schönefeld</string>
+	<key>SXL</key>
+	<string>Sligo</string>
+	<key>SXZ</key>
+	<string>Siirt</string>
+	<key>SYG</key>
+	<string>Svalbard</string>
+	<key>SYK</key>
+	<string>Stykkisholmur</string>
+	<key>SYR</key>
+	<string>Syracuse</string>
+	<key>SYY</key>
+	<string>Stornoway</string>
+	<key>SZB</key>
+	<string>Kuala Lumpur</string>
+	<key>SZF</key>
+	<string>Samsun</string>
+	<key>SZG</key>
+	<string>Salzburg</string>
+	<key>SZY</key>
+	<string>Szymany</string>
+	<key>SZZ</key>
+	<string>Szczecin</string>
+	<key>TAP</key>
+	<string>Tapachula</string>
+	<key>TAS</key>
+	<string>Tasjkent</string>
+	<key>TAT</key>
+	<string>Poprad</string>
+	<key>TAY</key>
+	<string>Tartu</string>
+	<key>TBJ</key>
+	<string>Tabarka</string>
+	<key>TBN</key>
+	<string>Fort Leonard Wood/Forney A</string>
+	<key>TBS</key>
+	<string>Tbilisi</string>
+	<key>TCB</key>
+	<string>Treasure Cay, Abaco Islands</string>
+	<key>TCC</key>
+	<string>Tucumcari</string>
+	<key>TCE</key>
+	<string>Tulcea</string>
+	<key>TCL</key>
+	<string>Tuscaloosa</string>
+	<key>TCM</key>
+	<string>Tacoma Mc Chord AFB</string>
+	<key>TCP</key>
+	<string>Taba</string>
+	<key>TCS</key>
+	<string>Truth Or Consequences</string>
+	<key>TEB</key>
+	<string>Teterboro</string>
+	<key>TED</key>
+	<string>Thisted</string>
+	<key>TEQ</key>
+	<string>Tekirdag, Corlu</string>
+	<key>TEY</key>
+	<string>Thingeyri</string>
+	<key>TFN</key>
+	<string>Tenerife Norte</string>
+	<key>TFS</key>
+	<string>Tenerife</string>
+	<key>TGA</key>
+	<string>Tengah</string>
+	<key>TGD</key>
+	<string>Podgorica</string>
+	<key>THF</key>
+	<string>Berlin Tempelhof</string>
+	<key>THN</key>
+	<string>Trollhättan</string>
+	<key>THO</key>
+	<string>Thorshofn</string>
+	<key>TIF</key>
+	<string>Tabuk</string>
+	<key>TIP</key>
+	<string>Tripoli</string>
+	<key>TIV</key>
+	<string>Tivat</string>
+	<key>TIW</key>
+	<string>Tacoma</string>
+	<key>TIX</key>
+	<string>Titusville</string>
+	<key>TJK</key>
+	<string>Tokat</string>
+	<key>TKU</key>
+	<string>Turku</string>
+	<key>TLH</key>
+	<string>Tallahassee</string>
+	<key>TLL</key>
+	<string>Tallinn</string>
+	<key>TLN</key>
+	<string>Toulon</string>
+	<key>TLS</key>
+	<string>Toulouse</string>
+	<key>TLV</key>
+	<string>Tel Aviv Ben Gurion</string>
+	<key>TMJ</key>
+	<string>Termez</string>
+	<key>TMP</key>
+	<string>Tampere</string>
+	<key>TNF</key>
+	<string>Toussus-Le-Noble</string>
+	<key>TNG</key>
+	<string>Tanger</string>
+	<key>TOE</key>
+	<string>Tozeur</string>
+	<key>TOJ</key>
+	<string>Madrid Torrejon</string>
+	<key>TOL</key>
+	<string>Toledo</string>
+	<key>TOS</key>
+	<string>Tromsø</string>
+	<key>TPA</key>
+	<string>Tampa</string>
+	<key>TPL</key>
+	<string>Temple</string>
+	<key>TPS</key>
+	<string>Trapani</string>
+	<key>TRD</key>
+	<string>Trondheim</string>
+	<key>TRE</key>
+	<string>Tiree</string>
+	<key>TRF</key>
+	<string>Sandefjord</string>
+	<key>TRN</key>
+	<string>Torino</string>
+	<key>TSE</key>
+	<string>Akmola</string>
+	<key>TSF</key>
+	<string>Venezia Treviso</string>
+	<key>TSR</key>
+	<string>Timisoara</string>
+	<key>TTB</key>
+	<string>Tortoli</string>
+	<key>TTN</key>
+	<string>Trenton (US)</string>
+	<key>TUF</key>
+	<string>Tours</string>
+	<key>TUI</key>
+	<string>Taif</string>
+	<key>TUL</key>
+	<string>Tulsa</string>
+	<key>TUN</key>
+	<string>Tunis</string>
+	<key>TUP</key>
+	<string>Tupelo</string>
+	<key>TUS</key>
+	<string>Tucson</string>
+	<key>TUU</key>
+	<string>Sulayel</string>
+	<key>TVL</key>
+	<string>South Lake Tahoe</string>
+	<key>TWF</key>
+	<string>Twin Falls</string>
+	<key>TXK</key>
+	<string>Texarkana</string>
+	<key>TXL</key>
+	<string>Berlin Tegel</string>
+	<key>TYF</key>
+	<string>Torsby</string>
+	<key>TYM</key>
+	<string>Staniel Cay</string>
+	<key>TYO</key>
+	<string>Tokyo</string>
+	<key>TYR</key>
+	<string>Tyler</string>
+	<key>TZK</key>
+	<string>Trabzon</string>
+	<key>UAB</key>
+	<string>Adana</string>
+	<key>UCA</key>
+	<string>Utica</string>
+	<key>UDE</key>
+	<string>Uden</string>
+	<key>UIN</key>
+	<string>Quincy</string>
+	<key>UIP</key>
+	<string>Quimper</string>
+	<key>UKI</key>
+	<string>Ukiah</string>
+	<key>ULY</key>
+	<string>Uljanovsk</string>
+	<key>UMD</key>
+	<string>Uummannaq</string>
+	<key>UME</key>
+	<string>Umeå</string>
+	<key>UNN</key>
+	<string>Ranong</string>
+	<key>UOX</key>
+	<string>Oxford</string>
+	<key>URD</key>
+	<string>Burg Feuerstein</string>
+	<key>URE</key>
+	<string>Kuressaare</string>
+	<key>URO</key>
+	<string>Rouen</string>
+	<key>UST</key>
+	<string>St Augustine</string>
+	<key>UTC</key>
+	<string>Utrecht</string>
+	<key>UTW</key>
+	<string>Queenstown</string>
+	<key>UVL</key>
+	<string>New Valley/Karga</string>
+	<key>UZC</key>
+	<string>Uzice</string>
+	<key>UZH</key>
+	<string>Turaif</string>
+	<key>VAA</key>
+	<string>Vaasa</string>
+	<key>VAC</key>
+	<string>Varrelbusch</string>
+	<key>VAD</key>
+	<string>Valdosta/Moody AF</string>
+	<key>VAF</key>
+	<string>Valence</string>
+	<key>VAJ</key>
+	<string>Varna</string>
+	<key>VAN</key>
+	<string>Van</string>
+	<key>VAR</key>
+	<string>Varna</string>
+	<key>VAS</key>
+	<string>Sivas</string>
+	<key>VAW</key>
+	<string>Vardø</string>
+	<key>VBG</key>
+	<string>Lompoc Vandenberg AFB</string>
+	<key>VBS</key>
+	<string>Brescia</string>
+	<key>VBY</key>
+	<string>Visby</string>
+	<key>VCE</key>
+	<string>Venezia</string>
+	<key>VCT</key>
+	<string>Victoria</string>
+	<key>VDA</key>
+	<string>Ovda</string>
+	<key>VDB</key>
+	<string>Fagernes</string>
+	<key>VDP</key>
+	<string>Kolding</string>
+	<key>VDS</key>
+	<string>Vadsø</string>
+	<key>VEY</key>
+	<string>Vestmannaeyjar</string>
+	<key>VGO</key>
+	<string>Vigo</string>
+	<key>VHM</key>
+	<string>Vilhelmina</string>
+	<key>VHY</key>
+	<string>Vichy-Charmeil</string>
+	<key>VIC</key>
+	<string>Vibo Valentia</string>
+	<key>VIE</key>
+	<string>Wien</string>
+	<key>VIL</key>
+	<string>Dakhla</string>
+	<key>VIT</key>
+	<string>Vitoria</string>
+	<key>VIY</key>
+	<string>Villa Coblay</string>
+	<key>VKO</key>
+	<string>Moskva Vnukovo</string>
+	<key>VLC</key>
+	<string>Valencia</string>
+	<key>VLD</key>
+	<string>Valdosta</string>
+	<key>VLL</key>
+	<string>Valladolid</string>
+	<key>VNE</key>
+	<string>Vannes</string>
+	<key>VNO</key>
+	<string>Vilnius</string>
+	<key>VOG</key>
+	<string>Volgograd</string>
+	<key>VOK</key>
+	<string>Camp Douglas Volk Field</string>
+	<key>VOL</key>
+	<string>Volos/Nea Anch</string>
+	<key>VPN</key>
+	<string>Vopnafjordur</string>
+	<key>VPS</key>
+	<string>Valparaiso Eglin AFB</string>
+	<key>VPZ</key>
+	<string>Valparaiso Porter County</string>
+	<key>VRA</key>
+	<string>Varadero</string>
+	<key>VRB</key>
+	<string>Vero Beach</string>
+	<key>VRK</key>
+	<string>Varkaus</string>
+	<key>VRL</key>
+	<string>Vila Real</string>
+	<key>VRN</key>
+	<string>Verona</string>
+	<key>VRY</key>
+	<string>Værøy</string>
+	<key>VSE</key>
+	<string>Viseu</string>
+	<key>VST</key>
+	<string>Västerås</string>
+	<key>VTL</key>
+	<string>Vittel-Champ De Courses</string>
+	<key>VVK</key>
+	<string>Vestervik</string>
+	<key>VVO</key>
+	<string>Vladivostok</string>
+	<key>VXO</key>
+	<string>Växjö</string>
+	<key>WAT</key>
+	<string>Waterford</string>
+	<key>WAW</key>
+	<string>Warszawa</string>
+	<key>WBG</key>
+	<string>Schleswig</string>
+	<key>WFK</key>
+	<string>Frenchville</string>
+	<key>WHS</key>
+	<string>Whalsay</string>
+	<key>WIC</key>
+	<string>Wick</string>
+	<key>WIE</key>
+	<string>Wiesbaden</string>
+	<key>WKR</key>
+	<string>Walker Cay, Abaco I.</string>
+	<key>WLG</key>
+	<string>Wellington</string>
+	<key>WOE</key>
+	<string>Woendrecht</string>
+	<key>WRL</key>
+	<string>Worland</string>
+	<key>WRO</key>
+	<string>Wroclaw</string>
+	<key>WRY</key>
+	<string>Westray</string>
+	<key>WTD</key>
+	<string>West End, Grand Bahama I.</string>
+	<key>WTN</key>
+	<string>Waddington</string>
+	<key>WVN</key>
+	<string>Wilhelmshaven-Mariensiel</string>
+	<key>WWD</key>
+	<string>Wildwood</string>
+	<key>WYS</key>
+	<string>West Yellowstone</string>
+	<key>XAB</key>
+	<string>Abbeville</string>
+	<key>XAC</key>
+	<string>Arcachon</string>
+	<key>XAK</key>
+	<string>Herning</string>
+	<key>XAM</key>
+	<string>Amboise/Dierre</string>
+	<key>XAN</key>
+	<string>Alencon-Valframbert</string>
+	<key>XAS</key>
+	<string>Ales-Deaux</string>
+	<key>XAV</key>
+	<string>Albertville</string>
+	<key>XBF</key>
+	<string>Bellegarde</string>
+	<key>XBQ</key>
+	<string>Blois-Le Breuil</string>
+	<key>XBV</key>
+	<string>Beaune</string>
+	<key>XBX</key>
+	<string>Bernay-Saint-Martin</string>
+	<key>XCP</key>
+	<string>Compiegne/Margny</string>
+	<key>XCW</key>
+	<string>Chaumont Semoutiers</string>
+	<key>XCX</key>
+	<string>Chatellerault/Targe</string>
+	<key>XCY</key>
+	<string>Chateau-Thierry-Belleau</string>
+	<key>XCZ</key>
+	<string>Charleville-Mezieres</string>
+	<key>XDA</key>
+	<string>Dax/Seyresse</string>
+	<key>XDK</key>
+	<string>Dunkerque-Ghyvelde</string>
+	<key>XED</key>
+	<string>Epernay-Plivot</string>
+	<key>XFE</key>
+	<string>Parent</string>
+	<key>XFV</key>
+	<string>Brantford</string>
+	<key>XGT</key>
+	<string>Gueret/Saint-Laurent</string>
+	<key>XHE</key>
+	<string>Hyeres-Le Palyvestre</string>
+	<key>XKS</key>
+	<string>Kasabonika</string>
+	<key>XLE</key>
+	<string>Lens-Benifontaine</string>
+	<key>XLG</key>
+	<string>Lognes-Emerainville</string>
+	<key>XLL</key>
+	<string>Lons Le Saunier/Courlaoux</string>
+	<key>XLN</key>
+	<string>Laon/Chambry</string>
+	<key>XLR</key>
+	<string>Libourne/Artiques De Lussac</string>
+	<key>XLW</key>
+	<string>Lemwerder</string>
+	<key>XME</key>
+	<string>Maubeuge/Elesmes</string>
+	<key>XMF</key>
+	<string>Montbeliard-Courcelles</string>
+	<key>XMK</key>
+	<string>Montelimar-Ancone</string>
+	<key>XMS</key>
+	<string>Marmande/Virazeil</string>
+	<key>XMW</key>
+	<string>Montauban</string>
+	<key>XNA</key>
+	<string>Narbonne</string>
+	<key>XNM</key>
+	<string>Nottingham</string>
+	<key>XOG</key>
+	<string>Orange-Caritat</string>
+	<key>XQH</key>
+	<string>Derby</string>
+	<key>XRN</key>
+	<string>Redon/Bains-Sur-Oust</string>
+	<key>XRO</key>
+	<string>La Roche-Sur-Yon-Les Ajoncs</string>
+	<key>XRY</key>
+	<string>Jerez</string>
+	<key>XSL</key>
+	<string>Sarlat/Domme</string>
+	<key>XSN</key>
+	<string>Saint-Yan</string>
+	<key>XSP</key>
+	<string>Singapore Seletar</string>
+	<key>XSS</key>
+	<string>Soissons-Courmelles</string>
+	<key>XST</key>
+	<string>Saintes-Thenac</string>
+	<key>XSV</key>
+	<string>Saverne-Steinbourg</string>
+	<key>XSW</key>
+	<string>Sedan-Douzy</string>
+	<key>XTH</key>
+	<string>Thionville/Yutz</string>
+	<key>XVI</key>
+	<string>Vienne/Reventin</string>
+	<key>XVN</key>
+	<string>Verdun/Rozelier</string>
+	<key>XVO</key>
+	<string>Vesoul-Frotey</string>
+	<key>XVS</key>
+	<string>Valenciennes/Denain</string>
+	<key>XVZ</key>
+	<string>Vierzon-Mereau</string>
+	<key>XXP</key>
+	<string>Potsdam</string>
+	<key>XYT</key>
+	<string>Toulouse-Montaudran</string>
+	<key>YAW</key>
+	<string>Halifax Shearwater</string>
+	<key>YAY</key>
+	<string>St Anthony</string>
+	<key>YAZ</key>
+	<string>Tofino</string>
+	<key>YBE</key>
+	<string>Uranium City</string>
+	<key>YBR</key>
+	<string>Brandon</string>
+	<key>YBY</key>
+	<string>Bonnyville</string>
+	<key>YCD</key>
+	<string>Nanaimo</string>
+	<key>YCG</key>
+	<string>Castlegar</string>
+	<key>YCL</key>
+	<string>Charlo</string>
+	<key>YCM</key>
+	<string>St Catharines</string>
+	<key>YCN</key>
+	<string>Cochrane</string>
+	<key>YCT</key>
+	<string>Coronation</string>
+	<key>YCW</key>
+	<string>Chilliwack</string>
+	<key>YCX</key>
+	<string>Gagetown.B.</string>
+	<key>YDB</key>
+	<string>Burwash</string>
+	<key>YDG</key>
+	<string>Digby</string>
+	<key>YDN</key>
+	<string>Dauphin</string>
+	<key>YDP</key>
+	<string>Nain</string>
+	<key>YEG</key>
+	<string>Edmonton</string>
+	<key>YEO</key>
+	<string>Yeovilton</string>
+	<key>YET</key>
+	<string>Edson</string>
+	<key>YEU</key>
+	<string>Eureka</string>
+	<key>YFC</key>
+	<string>Fredericton</string>
+	<key>YFE</key>
+	<string>Forestville</string>
+	<key>YGK</key>
+	<string>Kingston CA</string>
+	<key>YGP</key>
+	<string>Gaspeue.</string>
+	<key>YGQ</key>
+	<string>Geraldtonn</string>
+	<key>YGX</key>
+	<string>Gillam</string>
+	<key>YGZ</key>
+	<string>Grise Fiord.W.T.</string>
+	<key>YHE</key>
+	<string>Hope</string>
+	<key>YHI</key>
+	<string>Holman.W.T.</string>
+	<key>YHM</key>
+	<string>Hamiltonn</string>
+	<key>YHO</key>
+	<string>Hopedale</string>
+	<key>YHZ</key>
+	<string>Halifax </string>
+	<key>YIP</key>
+	<string>Detroit Willow Run</string>
+	<key>YJT</key>
+	<string>Stephenville</string>
+	<key>YKG</key>
+	<string>Kangirsuk</string>
+	<key>YKL</key>
+	<string>Schefferville</string>
+	<key>YKM</key>
+	<string>Yakima</string>
+	<key>YKN</key>
+	<string>Yankton</string>
+	<key>YKQ</key>
+	<string>Waskaganish</string>
+	<key>YKZ</key>
+	<string>Toronto Buttonville</string>
+	<key>YLC</key>
+	<string>Kimmirut</string>
+	<key>YLD</key>
+	<string>Chapleau</string>
+	<key>YLI</key>
+	<string>Ylivieska</string>
+	<key>YLL</key>
+	<string>Lloydminster</string>
+	<key>YLO</key>
+	<string>Shilo</string>
+	<key>YLW</key>
+	<string>Kelowna</string>
+	<key>YMA</key>
+	<string>Mayo</string>
+	<key>YME</key>
+	<string>Matane</string>
+	<key>YMN</key>
+	<string>Makkovik</string>
+	<key>YNA</key>
+	<string>Natashquan</string>
+	<key>YNE</key>
+	<string>Norway House</string>
+	<key>YNG</key>
+	<string>Youngstown</string>
+	<key>YNM</key>
+	<string>Matagami</string>
+	<key>YNS</key>
+	<string>Nemiscau</string>
+	<key>YOA</key>
+	<string>Koala Nwt</string>
+	<key>YOC</key>
+	<string>Old Crow</string>
+	<key>YOH</key>
+	<string>Oxford House</string>
+	<key>YOO</key>
+	<string>Oshawa</string>
+	<key>YOW</key>
+	<string>Ottawa/Macd.-Cartier</string>
+	<key>YOY</key>
+	<string>Valcartier</string>
+	<key>YPA</key>
+	<string>Prince Albert</string>
+	<key>YPC</key>
+	<string>Paulatuk.W.T.</string>
+	<key>YPM</key>
+	<string>Pikangikum</string>
+	<key>YPO</key>
+	<string>Peawanuck</string>
+	<key>YPQ</key>
+	<string>Peterborough</string>
+	<key>YQA</key>
+	<string>Muskoka</string>
+	<key>YQB</key>
+	<string>Quebec/Jean Lesage</string>
+	<key>YQC</key>
+	<string>Quaqtaq</string>
+	<key>YQG</key>
+	<string>Windsor</string>
+	<key>YQI</key>
+	<string>Yarmouth</string>
+	<key>YQK</key>
+	<string>Kenora</string>
+	<key>YQL</key>
+	<string>Lethbridge</string>
+	<key>YQM</key>
+	<string>Moncton</string>
+	<key>YQN</key>
+	<string>Nakina</string>
+	<key>YQQ</key>
+	<string>Comox</string>
+	<key>YQS</key>
+	<string>St Thomas</string>
+	<key>YQT</key>
+	<string>Thunder Bay</string>
+	<key>YQX</key>
+	<string>Gander</string>
+	<key>YQY</key>
+	<string>Sydney</string>
+	<key>YQZ</key>
+	<string>Quesnel</string>
+	<key>YRF</key>
+	<string>Cartwright</string>
+	<key>YRJ</key>
+	<string>Roberval</string>
+	<key>YRO</key>
+	<string>Ottawa Rockcliffe</string>
+	<key>YRV</key>
+	<string>Revelstoke</string>
+	<key>YSB</key>
+	<string>Sudbury</string>
+	<key>YSC</key>
+	<string>Sherbrooke</string>
+	<key>YSD</key>
+	<string>Suffield</string>
+	<key>YSE</key>
+	<string>Squamish</string>
+	<key>YSK</key>
+	<string>Sanikiluaq</string>
+	<key>YSR</key>
+	<string>Nanisivik.W.T.</string>
+	<key>YSU</key>
+	<string>Summerside</string>
+	<key>YTA</key>
+	<string>Pembroke</string>
+	<key>YTR</key>
+	<string>Trenton (CA)</string>
+	<key>YTS</key>
+	<string>Timmins</string>
+	<key>YUM</key>
+	<string>Yuma</string>
+	<key>YVB</key>
+	<string>Bonaventure</string>
+	<key>YVE</key>
+	<string>Vernon</string>
+	<key>YVG</key>
+	<string>Vermillion</string>
+	<key>YVQ</key>
+	<string>Norman Wells </string>
+	<key>YVR</key>
+	<string>Vancouver</string>
+	<key>YVV</key>
+	<string>Wiarton</string>
+	<key>YWA</key>
+	<string>Petawawa</string>
+	<key>YWG</key>
+	<string>Winnipeg</string>
+	<key>YWJ</key>
+	<string>Deline</string>
+	<key>YWK</key>
+	<string>Wabush</string>
+	<key>YWO</key>
+	<string>Lupin</string>
+	<key>YWP</key>
+	<string>Webquie</string>
+	<key>YWY</key>
+	<string>Wrigley</string>
+	<key>YXC</key>
+	<string>Cranbrook</string>
+	<key>YXD</key>
+	<string>Edmonton City Center Airport</string>
+	<key>YXK</key>
+	<string>Rimouski</string>
+	<key>YXP</key>
+	<string>Pangnirtung</string>
+	<key>YXU</key>
+	<string>London CA</string>
+	<key>YXX</key>
+	<string>Abbotsford</string>
+	<key>YXY</key>
+	<string>Whitehorse</string>
+	<key>YXZ</key>
+	<string>Wawa</string>
+	<key>YYC</key>
+	<string>Calgary</string>
+	<key>YYD</key>
+	<string>Smithers</string>
+	<key>YYF</key>
+	<string>Penticton</string>
+	<key>YYG</key>
+	<string>Charlottetown</string>
+	<key>YYJ</key>
+	<string>Victoria</string>
+	<key>YYM</key>
+	<string>Cowley</string>
+	<key>YYR</key>
+	<string>Goose Bay</string>
+	<key>YYU</key>
+	<string>Kapuskasing</string>
+	<key>YYY</key>
+	<string>Mont-Joli</string>
+	<key>YYZ</key>
+	<string>Toronto Lester B. Pearson</string>
+	<key>YZF</key>
+	<string>Yellowknife</string>
+	<key>YZG</key>
+	<string>Salluit</string>
+	<key>YZP</key>
+	<string>Sandspit</string>
+	<key>YZR</key>
+	<string>Sarnia</string>
+	<key>YZU</key>
+	<string>Whitecourt</string>
+	<key>YZW</key>
+	<string>Teslin</string>
+	<key>YZX</key>
+	<string>Greenwood CA</string>
+	<key>ZAD</key>
+	<string>Zadar</string>
+	<key>ZAG</key>
+	<string>Zagreb</string>
+	<key>ZAH</key>
+	<string>Zahedan</string>
+	<key>ZAO</key>
+	<string>Cahors/Lalbenque</string>
+	<key>ZAV</key>
+	<string>Aveiro</string>
+	<key>ZAZ</key>
+	<string>Zaragoza</string>
+	<key>ZBE</key>
+	<string>Zabreh</string>
+	<key>ZBF</key>
+	<string>Bathurst</string>
+	<key>ZBM</key>
+	<string>Bromont</string>
+	<key>ZBQ</key>
+	<string>Randers</string>
+	<key>ZCA</key>
+	<string>Arnsberg</string>
+	<key>ZCB</key>
+	<string>Aschaffenburg-Grossostheim</string>
+	<key>ZCC</key>
+	<string>Baden Baden</string>
+	<key>ZCD</key>
+	<string>Bamberg</string>
+	<key>ZCN</key>
+	<string>Celle</string>
+	<key>ZCR</key>
+	<string>Dachau/Grobenried</string>
+	<key>ZCV</key>
+	<string>Dinslaken Schwarze Heide</string>
+	<key>ZDK</key>
+	<string>Biel-Kappelen</string>
+	<key>ZEE</key>
+	<string>Fulda-Jossa</string>
+	<key>ZFA</key>
+	<string>Faro</string>
+	<key>ZGA</key>
+	<string>Gera-Leumnitz</string>
+	<key>ZGO</key>
+	<string>Gotha-Ost</string>
+	<key>ZGQ</key>
+	<string>Tournai</string>
+	<key>ZHH</key>
+	<string>Gossau Sg</string>
+	<key>ZHI</key>
+	<string>Grenchen</string>
+	<key>ZHK</key>
+	<string>Gstaad-Inn Grund</string>
+	<key>ZHW</key>
+	<string>La Cote</string>
+	<key>ZIA</key>
+	<string>Trento</string>
+	<key>ZIH</key>
+	<string>Ixtapa/Zihuatanejo</string>
+	<key>ZIN</key>
+	<string>Interlaken</string>
+	<key>ZJS</key>
+	<string>Jena</string>
+	<key>ZJU</key>
+	<string>Olten</string>
+	<key>ZKE</key>
+	<string>Kaschechewan</string>
+	<key>ZKJ</key>
+	<string>Schaffhausen</string>
+	<key>ZLI</key>
+	<string>Winterthur</string>
+	<key>ZLJ</key>
+	<string>Yverdon-Les-Bains</string>
+	<key>ZMG</key>
+	<string>Magdeburg</string>
+	<key>ZMO</key>
+	<string>Modena/Marzaglia</string>
+	<key>ZMT</key>
+	<string>Masset</string>
+	<key>ZNF</key>
+	<string>Hanau</string>
+	<key>ZNM</key>
+	<string>Herten-Rheinfelden</string>
+	<key>ZNO</key>
+	<string>Hildesheim</string>
+	<key>ZNQ</key>
+	<string>Ingolstadt</string>
+	<key>ZNS</key>
+	<string>Kempten-Durach</string>
+	<key>ZNV</key>
+	<string>Koblenz-Winningen</string>
+	<key>ZOA</key>
+	<string>Leverkusen</string>
+	<key>ZOI</key>
+	<string>Marburg-Schonstadt</string>
+	<key>ZOJ</key>
+	<string>Marl-Loemuhle</string>
+	<key>ZOW</key>
+	<string>Nordhorn-Lingen</string>
+	<key>ZPA</key>
+	<string>Offenburg</string>
+	<key>ZPD</key>
+	<string>Oldenburg-Hatten</string>
+	<key>ZPE</key>
+	<string>Osnabruck-Atterheide</string>
+	<key>ZPG</key>
+	<string>Peine-Eddesse</string>
+	<key>ZPI</key>
+	<string>Pirmasens</string>
+	<key>ZPM</key>
+	<string>Regensburg-Oberhub</string>
+	<key>ZPT</key>
+	<string>Saarlouis-Duren</string>
+	<key>ZPU</key>
+	<string>Salzgitter-Drutte</string>
+	<key>ZQC</key>
+	<string>Speyer</string>
+	<key>ZQD</key>
+	<string>Stade</string>
+	<key>ZQP</key>
+	<string>Wesel-Romerwardt</string>
+	<key>ZQV</key>
+	<string>Worms</string>
+	<key>ZQW</key>
+	<string>Zweibruken</string>
+	<key>ZRH</key>
+	<string>Zürich</string>
+	<key>ZRK</key>
+	<string>Rockford</string>
+	<key>ZSK</key>
+	<string>Pasewalk-Fransfelde</string>
+	<key>ZSN</key>
+	<string>Stendal-Borstel</string>
+	<key>ZSO</key>
+	<string>Suhl-Goldlauter</string>
+	<key>ZSR</key>
+	<string>Schwerin-Parchim</string>
+	<key>ZST</key>
+	<string>Stewart</string>
+	<key>ZSU</key>
+	<string>Dessau</string>
+	<key>ZSX</key>
+	<string>Stralsund</string>
+	<key>ZTH</key>
+	<string>Zakynthos</string>
+	<key>ZTK</key>
+	<string>Triengen</string>
+	<key>ZTM</key>
+	<string>Shamattawa</string>
+	<key>ZTZ</key>
+	<string>Chemnitz/Jahnsdorf</string>
+	<key>ZUB</key>
+	<string>Neubrandenburg</string>
+	<key>ZWM</key>
+	<string>Wismar-Muggenburg</string>
+	<key>ZZV</key>
+	<string>Zanesville</string>
+</dict>
+</plist>

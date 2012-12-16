@@ -1,0 +1,105 @@
+
+/* Class = "IBUITableViewController"; title = "Flights"; ObjectID = "12"; */
+"12.title" = "Flights";
+
+/* Class = "IBUINavigationItem"; prompt = "Arrival to Oslo"; ObjectID = "36"; */
+"36.prompt" = "Arrival to Oslo";
+
+/* Class = "IBUILabel"; text = "20:50"; ObjectID = "2fL-p0-Ej9"; */
+"2fL-p0-Ej9.text" = "20:50";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "4J9-0F-znn"; */
+"4J9-0F-znn.text" = "Label";
+
+/* Class = "IBUITextView"; text = "shmidt@me.com"; ObjectID = "4cx-HZ-hh2"; */
+"4cx-HZ-hh2.text" = "shmidt@me.com";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "5HT-wM-9cO"; */
+"5HT-wM-9cO.text" = "Label";
+
+/* Class = "IBUILabel"; text = "CoD"; ObjectID = "6lx-pj-2UI"; */
+"6lx-pj-2UI.text" = "CoD";
+
+/* Class = "IBUILabel"; text = "Schedule Time"; ObjectID = "7w9-r6-Nfp"; */
+"7w9-r6-Nfp.text" = "Schedule Time";
+
+/* Class = "IBUILabel"; text = "Airline"; ObjectID = "B4b-h7-irT"; */
+"B4b-h7-irT.text" = "Airline";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "BFe-Hd-BPV"; */
+"BFe-Hd-BPV.text" = "Label";
+
+/* Class = "IBUILabel"; text = "What"; ObjectID = "Bjf-NO-jcB"; */
+"Bjf-NO-jcB.text" = "What";
+
+/* Class = "IBUILabel"; text = "Flights data from Avinor  www.avinor.no"; ObjectID = "FoT-FL-HzB"; */
+"FoT-FL-HzB.text" = "Flights data from Avinor  www.avinor.no";
+
+/* Class = "IBUILabel"; text = "Have a good day!"; ObjectID = "I0i-gu-JKA"; */
+"I0i-gu-JKA.text" = "Have a good day!";
+
+/* Class = "IBUILabel"; text = "Looking for a job as iPhone developer"; ObjectID = "L0x-Ey-j3S"; */
+"L0x-Ey-j3S.text" = "Looking for a job as iPhone developer";
+
+/* Class = "IBUINavigationItem"; title = "Alarm before flight"; ObjectID = "N3q-7t-8bx"; */
+"N3q-7t-8bx.title" = "Alarm before flight";
+
+/* Class = "IBUILabel"; text = "Airline:"; ObjectID = "NPp-h9-bwJ"; */
+"NPp-h9-bwJ.text" = "Airline:";
+
+/* Class = "IBUILabel"; text = "Bergen"; ObjectID = "R0B-D3-zG0"; */
+"R0B-D3-zG0.text" = "Bergen";
+
+/* Class = "IBUILabel"; text = "21:50"; ObjectID = "Uuj-ny-nMf"; */
+"Uuj-ny-nMf.text" = "21:50";
+
+/* Class = "IBUILabel"; text = "Oslo"; ObjectID = "X6u-SW-WEL"; */
+"X6u-SW-WEL.text" = "Oslo";
+
+/* Class = "IBUIBarButtonItem"; title = "Flights"; ObjectID = "YCa-Qb-znW"; */
+"YCa-Qb-znW.title" = "Flights";
+
+/* Class = "IBUIBarButtonItem"; title = "Airport"; ObjectID = "bYr-C5-LGi"; */
+"bYr-C5-LGi.title" = "Airport";
+
+/* Class = "IBUILabel"; text = "Airport"; ObjectID = "bmB-uh-DGS"; */
+"bmB-uh-DGS.text" = "Airport";
+
+/* Class = "IBUINavigationItem"; prompt = "Last updated:"; ObjectID = "c7k-bK-Mv0"; */
+"c7k-bK-Mv0.prompt" = "Last updated:";
+
+/* Class = "IBUINavigationItem"; title = "Flight Information"; ObjectID = "c7k-bK-Mv0"; */
+"c7k-bK-Mv0.title" = "Flight Information";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "kIT-tB-Ouv"; */
+"kIT-tB-Ouv.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Time"; ObjectID = "kka-NL-rjj"; */
+"kka-NL-rjj.text" = "Time";
+
+/* Class = "IBUILabel"; text = "Alarm"; ObjectID = "krQ-rT-b67"; */
+"krQ-rT-b67.text" = "Alarm";
+
+/* Class = "IBUILabel"; text = "From"; ObjectID = "l2V-PM-OCN"; */
+"l2V-PM-OCN.text" = "From";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "nbn-gg-Ygb"; */
+"nbn-gg-Ygb.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "00:00"; ObjectID = "oh8-na-f4B"; */
+"oh8-na-f4B.text" = "00:00";
+
+/* Class = "IBUILabel"; text = "To"; ObjectID = "s6A-ld-7EO"; */
+"s6A-ld-7EO.text" = "To";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "s6C-z2-3gc"; */
+"s6C-z2-3gc.text" = "Title";
+
+/* Class = "IBUILabel"; text = "CoA"; ObjectID = "ucH-Pi-CAk"; */
+"ucH-Pi-CAk.text" = "CoA";
+
+/* Class = "IBUINavigationItem"; title = "Choose an airport"; ObjectID = "we0-Uv-12z"; */
+"we0-Uv-12z.title" = "Choose an airport";
+
+/* Class = "IBUILabel"; text = "Flight"; ObjectID = "xh2-b4-xc6"; */
+"xh2-b4-xc6.text" = "Flight";
