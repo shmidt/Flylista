@@ -1,8 +1,8 @@
 ALWAYS_SEARCH_USER_PATHS = YES
-OTHER_LDFLAGS = -ObjC -Wl,-no_compact_unwind -lGoogleAnalytics -framework AudioToolbox -framework CFNetwork -framework CoreData -framework CoreGraphics -framework Foundation -framework MessageUI -framework QuartzCore -framework Security -framework SystemConfiguration -framework UIKit
+OTHER_LDFLAGS = -ObjC -lGoogleAnalytics -framework CFNetwork -framework CoreData -framework CoreGraphics -framework QuartzCore -framework SystemConfiguration -framework UIKit
 HEADER_SEARCH_PATHS = ${PODS_HEADERS_SEARCH_PATHS}
 PODS_ROOT = ${SRCROOT}/Pods
-PODS_BUILD_HEADERS_SEARCH_PATHS = "${PODS_ROOT}/BuildHeaders" "${PODS_ROOT}/BuildHeaders/AJNotificationView" "${PODS_ROOT}/BuildHeaders/ActionSheetPicker2" "${PODS_ROOT}/BuildHeaders/BlocksKit" "${PODS_ROOT}/BuildHeaders/GoogleAnalytics-iOS-SDK" "${PODS_ROOT}/BuildHeaders/KKPasscodeLock" "${PODS_ROOT}/BuildHeaders/MHPrettyDate" "${PODS_ROOT}/BuildHeaders/ObjectiveSugar" "${PODS_ROOT}/BuildHeaders/PrettyKit" "${PODS_ROOT}/BuildHeaders/Reachability" "${PODS_ROOT}/BuildHeaders/SVProgressHUD" "${PODS_ROOT}/BuildHeaders/libffi"
-PODS_PUBLIC_HEADERS_SEARCH_PATHS = "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/AJNotificationView" "${PODS_ROOT}/Headers/ActionSheetPicker2" "${PODS_ROOT}/Headers/BlocksKit" "${PODS_ROOT}/Headers/GoogleAnalytics-iOS-SDK" "${PODS_ROOT}/Headers/KKPasscodeLock" "${PODS_ROOT}/Headers/MHPrettyDate" "${PODS_ROOT}/Headers/ObjectiveSugar" "${PODS_ROOT}/Headers/PrettyKit" "${PODS_ROOT}/Headers/Reachability" "${PODS_ROOT}/Headers/SVProgressHUD" "${PODS_ROOT}/Headers/libffi"
+PODS_BUILD_HEADERS_SEARCH_PATHS = "${PODS_ROOT}/BuildHeaders" "${PODS_ROOT}/BuildHeaders/GoogleAnalytics-iOS-SDK" "${PODS_ROOT}/BuildHeaders/PrettyKit" "${PODS_ROOT}/BuildHeaders/Reachability" "${PODS_ROOT}/BuildHeaders/SVProgressHUD"
+PODS_PUBLIC_HEADERS_SEARCH_PATHS = "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/GoogleAnalytics-iOS-SDK" "${PODS_ROOT}/Headers/PrettyKit" "${PODS_ROOT}/Headers/Reachability" "${PODS_ROOT}/Headers/SVProgressHUD"
 PODS_HEADERS_SEARCH_PATHS = ${PODS_PUBLIC_HEADERS_SEARCH_PATHS}
 LIBRARY_SEARCH_PATHS = "$(PODS_ROOT)/GoogleAnalytics-iOS-SDK/GoogleAnalyticsiOS_2.0beta3/Library"

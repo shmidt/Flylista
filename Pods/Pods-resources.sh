@@ -21,5 +21,4 @@ install_resource()
       ;;
   esac
 }
-install_resource 'KKPasscodeLock/src/KKPasscodeLock.bundle'
 install_resource 'SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle'

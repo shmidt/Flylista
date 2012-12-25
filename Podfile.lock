@@ -1,41 +1,20 @@
 
 PODS:
-- AJNotificationView (0.0.1)
-- ActionSheetPicker2 (0.1)
-- BlocksKit (1.8.1):
-  - libffi
 - GoogleAnalytics-iOS-SDK (2.0beta3)
-- KKPasscodeLock (0.1.5)
-- MHPrettyDate (1.0.1)
-- ObjectiveSugar (0.6.1)
 - PrettyKit (0.2.0)
 - Reachability (3.1.0)
 - SVProgressHUD (0.8)
-- libffi (3.0.11)
 
 DEPENDENCIES:
-- AJNotificationView (~> 0.0.1)
-- ActionSheetPicker2
-- BlocksKit
 - GoogleAnalytics-iOS-SDK
-- KKPasscodeLock (~> 0.1.5)
-- MHPrettyDate
-- ObjectiveSugar
 - PrettyKit (~> 0.2.0)
 - Reachability
 - SVProgressHUD
 
 SPEC CHECKSUMS:
-  AJNotificationView: 5fa81cca61259f6501143b31ce2bbe211150ec7e
-  ActionSheetPicker2: 1a097a29ab437ea47356f3477e7a47e175a90445
-  BlocksKit: 18102744fd7c44b54f1e54ce6ffe9258bcb5df81
   GoogleAnalytics-iOS-SDK: dbc85b4df88cd4a7eb7fb774400e865db2fab8bb
-  KKPasscodeLock: 5fb69da49d4163215e0405a482e152bec671586d
-  MHPrettyDate: 20779da456ad9c512a6a241929ac6cd53821794d
-  ObjectiveSugar: a14a979b6486c25fdc424ced3b801e47c2406e0e
   PrettyKit: 44b8f06f3719579880d2e11cd6498b7464b3b0fa
   Reachability: 1c8584c5f26fa776695efef95caaa50402c94cfb
   SVProgressHUD: 51042a14e3a716efdbdd73cbb2181fb23ee94389
-  libffi: 8a1d9ba43c0c84b546b42c6f742714e73aa07ae1
 
 COCOAPODS: 0.16.0
