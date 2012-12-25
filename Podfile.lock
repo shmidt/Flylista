@@ -9,6 +9,7 @@ PODS:
 - MHPrettyDate (1.0.1)
 - ObjectiveSugar (0.6.1)
 - PrettyKit (0.2.0)
+- Reachability (3.1.0)
 - SVProgressHUD (0.8)
 - libffi (3.0.11)
 
@@ -21,6 +22,7 @@ DEPENDENCIES:
 - MHPrettyDate
 - ObjectiveSugar
 - PrettyKit (~> 0.2.0)
+- Reachability
 - SVProgressHUD
 
 SPEC CHECKSUMS:
@@ -32,6 +34,7 @@ SPEC CHECKSUMS:
   MHPrettyDate: 20779da456ad9c512a6a241929ac6cd53821794d
   ObjectiveSugar: a14a979b6486c25fdc424ced3b801e47c2406e0e
   PrettyKit: 44b8f06f3719579880d2e11cd6498b7464b3b0fa
+  Reachability: 1c8584c5f26fa776695efef95caaa50402c94cfb
   SVProgressHUD: 51042a14e3a716efdbdd73cbb2181fb23ee94389
   libffi: 8a1d9ba43c0c84b546b42c6f742714e73aa07ae1
 
