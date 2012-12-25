@@ -69,20 +69,6 @@
     [super didReceiveMemoryWarning];
     // Release any cached data, images, etc that aren't in use.
 }
-
-//- (void)dealloc
-//{
-//    [[NSNotificationCenter defaultCenter] removeObserver:self
-//                                                    name:UIApplicationDidEnterBackgroundNotification
-//                                                  object:nil];
-//}
-
-//- (void)applicationDidEnterBackground
-//{
-//    [airlines writeToFile:AIRLINES_PATH atomically:NO];
-//    [airports writeToFile:AIRPORTS_PATH atomically:NO];
-//}
-
 #pragma mark - View lifecycle
 
 - (void)viewDidLoad
@@ -91,10 +77,7 @@
     pull = [[PullToRefreshView alloc] initWithScrollView:self.tableView];
     [pull setDelegate:self];
     [self.tableView addSubview:pull];
-    //    [[NSNotificationCenter defaultCenter] addObserver:self
-    //                                             selector:@selector(applicationDidEnterBackground)
-    //                                                 name:UIApplicationDidEnterBackgroundNotification
-    //                                               object:nil];
+
     if ([[NSFileManager defaultManager] fileExistsAtPath:@"AirlinesDB"])
         [[NSFileManager defaultManager] moveItemAtPath:@"AirlinesDB" toPath:AIRLINES_PATH error:nil];
     if ([[NSFileManager defaultManager] fileExistsAtPath:@"AirportsDB"])

@@ -12,18 +12,4 @@
 @synthesize scheduleTime, airline, airport, flightNo;
 @synthesize statusUpdateImageView, alarmImageView;
 
-//- (void) initialize{
-//
-//}
-//
-//- (id) initWithCoder:(NSCoder *)aCoder{
-//    NSLog(@"%s",__PRETTY_FUNCTION__);
-//    if(self = [super initWithCoder:aCoder]){
-//        [self initialize];
-//    }
-//    return self;
-//}
- // Configure the view for the selected state
-//}
-
 @end
