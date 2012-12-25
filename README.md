@@ -1,11 +1,14 @@
 Flylista
 ========
 Flylista is a flights schedules for norwegian airports,
-based on [Flight data Avinor](http://www.avinor.no/avinor/trafikk/50_Flydata).
+based on [Flights data from Avinor](http://www.avinor.no/avinor/trafikk/50_Flydata).
 
-It's main differense from altenative app that you can set a reminder(notification) right from the app(many times I picked some friends from the airport, so this feature comes from those times) 
+The main differense from other apps is that you can set a reminder(notification) right from the app(many times I picked friends from the airport, so this feature comes from those times) 
 
 It's my second app, so it's messy :)
+
+Licensed under MIT license(it means you can do whatever you want).
+3rd party code used in app goes under it's licenses.
 
 App at [App Store](https://itunes.apple.com/app/flylista/id486934512?mt=8)
 
